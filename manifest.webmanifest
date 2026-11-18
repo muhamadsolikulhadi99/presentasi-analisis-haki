@@ -1,0 +1,9 @@
+{
+  "name": "Analisis Kasus Pelanggaran HAKI Secara Menyeluruh",
+  "short_name": "Kajian HAKI",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#0a1830",
+  "theme_color": "#0a1830",
+  "description": "Presentasi akademik interaktif Kelompok 2"
+}

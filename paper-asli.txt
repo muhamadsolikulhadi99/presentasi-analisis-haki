@@ -1,0 +1,509 @@
+MAKALAH
+ANALISIS KASUS PELANGGARAN HAK KEKAYAAN INTELEKTUAL (HAKI) TERHADAP BUKU LEMBAR KERJA SISWA PENDIDIKAN AGAMA ISLAM: PERSPEKTIF HUKUM, ETIKA DIGITAL, DAN NILAI-NILAI PENDIDIKAN ISLAM
+MATA KULIAH : INOVASI PAI DAN ETIKA DIGITAL
+DOSEN: Dr. M. Khusnul Hamdani, M.Pd
+ 
+INSTITUT STUDI ISLAM MUHAMMADIAH PACITAN TAHUN 2026
+
+
+Disusun Oleh:
+1. Junaidi			    (NIM: )
+2. Shofi’ula			(NIM: )
+3. Muhamad Solikul Hadi	(NIM: )
+ 4. Budi Prayitno		(NIM: )
+5. Sugiyarto			(NIM: )
+ 6. Dedi Andriansa		(NIM: )
+
+ 
+ABSTRAK
+Perlindungan Hak Kekayaan Intelektual (HAKI) merupakan salah satu persoalan penting dalam dunia pendidikan, khususnya dalam pengembangan dan pemanfaatan bahan ajar. Perkembangan kreativitas dalam bidang pendidikan menuntut adanya penghargaan terhadap karya intelektual yang dihasilkan oleh pendidik, penulis, dan penerbit. Namun, praktik penggandaan dan penggunaan karya tanpa izin masih menjadi persoalan yang dapat merugikan pencipta maupun pemegang hak cipta. Makalah ini menganalisis kasus dugaan pelanggaran hak cipta terhadap buku Lembar Kerja Siswa (LKS) Pendidikan Agama Islam berjudul *Titian Prestasi* yang diterbitkan oleh CV Amanah Karya Mandiri Yogyakarta. Kasus tersebut berkaitan dengan munculnya buku LKS Pendidikan Agama Islam lain berjudul *Pandhan Simo* yang berdasarkan penelitian Rahman Hendrawanto (2007) memiliki kesamaan materi dengan buku *Titian Prestasi*, khususnya pada halaman 3 sampai dengan halaman 38. Pihak pemegang hak cipta menyatakan tidak memberikan izin atas penerbitan buku yang dipermasalahkan.
+Penulisan makalah ini menggunakan metode studi kepustakaan dengan pendekatan deskriptif-analitis dan studi kasus. Analisis dilakukan melalui perspektif hukum hak cipta, etika digital, nilai-nilai Pendidikan Agama Islam, serta relevansinya terhadap inovasi pembelajaran. Hasil kajian menunjukkan bahwa penggandaan dan penerbitan substansi karya orang lain tanpa izin dapat menimbulkan persoalan pelanggaran hak cipta, terutama apabila menyangkut pengambilan bagian substansial dari suatu ciptaan yang dilindungi. Penelitian terhadap kasus ini juga menunjukkan bahwa penyelesaian sengketa dilakukan melalui pendekatan musyawarah atau negosiasi di luar pengadilan. Secara kritis, kasus tersebut memperlihatkan bahwa pelanggaran terhadap hak cipta tidak hanya berdampak pada kerugian ekonomi pencipta, tetapi juga berpotensi melemahkan budaya akademik, kreativitas pendidik, dan integritas lembaga pendidikan. Dari perspektif Islam, penghormatan terhadap hak cipta memiliki keterkaitan dengan prinsip amanah, kejujuran, keadilan, dan larangan mengambil hak orang lain secara batil. Oleh karena itu, penguatan literasi HAKI dan etika digital perlu menjadi bagian dari inovasi Pendidikan Agama Islam untuk membentuk peserta didik yang kreatif, berintegritas, dan bertanggung jawab dalam memanfaatkan teknologi.
+**Kata kunci:** HAKI, hak cipta, LKS PAI, etika digital, pendidikan Islam, inovasi pembelajaran.
+ 
+BAB I
+PENDAHULUAN
+A. Latar Belakang
+Perkembangan ilmu pengetahuan dan teknologi informasi telah membawa perubahan besar dalam berbagai bidang kehidupan, termasuk pendidikan. Transformasi digital memungkinkan proses pembelajaran berlangsung secara lebih fleksibel, interaktif, dan inovatif. Pendidik dapat mengembangkan berbagai media pembelajaran, seperti buku digital, modul elektronik, video pembelajaran, presentasi interaktif, aplikasi pendidikan, serta lembar kerja peserta didik.
+Dalam Pendidikan Agama Islam (PAI), perkembangan tersebut memberikan peluang untuk menghadirkan pembelajaran yang lebih menarik dan kontekstual. Guru tidak lagi hanya mengandalkan buku teks, tetapi dapat mengembangkan bahan ajar yang memadukan materi Al-Qur'an, hadis, akidah, akhlak, fikih, dan sejarah kebudayaan Islam dengan teknologi digital.
+Namun, perkembangan kreativitas dalam dunia pendidikan juga menghadirkan tantangan, salah satunya berkaitan dengan perlindungan Hak Kekayaan Intelektual (HAKI). Tidak semua individu memahami bahwa buku, modul, bahan ajar, dan media pembelajaran merupakan hasil karya intelektual yang memiliki perlindungan hukum. Akibatnya, masih ditemukan praktik penggandaan, penyalinan, dan penerbitan kembali karya orang lain tanpa memperhatikan hak pencipta atau pemegang hak cipta.
+Hak Kekayaan Intelektual merupakan hak yang diberikan kepada seseorang atau pihak tertentu atas hasil kreativitas dan kemampuan intelektualnya. Dalam bidang pendidikan, salah satu bentuk HAKI yang sangat penting adalah hak cipta. Hak cipta melindungi karya di bidang ilmu pengetahuan, seni, dan sastra, termasuk buku pelajaran, modul pembelajaran, dan bahan ajar.
+Indonesia telah memiliki perangkat hukum untuk melindungi hak cipta. Pada saat kasus yang dibahas dalam makalah ini terjadi, ketentuan yang berlaku adalah Undang-Undang Nomor 19 Tahun 2002 tentang Hak Cipta. Selanjutnya, peraturan tersebut digantikan oleh Undang-Undang Nomor 28 Tahun 2014 tentang Hak Cipta.
+Salah satu kasus yang relevan untuk dikaji dalam konteks Pendidikan Agama Islam adalah kasus dugaan pelanggaran hak cipta buku Lembar Kerja Siswa (LKS) Pendidikan Agama Islam berjudul *Titian Prestasi* yang diterbitkan oleh CV Amanah Karya Mandiri Yogyakarta. Kasus tersebut dikaji dalam penelitian Rahman Hendrawanto (2007), mahasiswa Fakultas Hukum Universitas Islam Indonesia.
+Berdasarkan penelitian tersebut, buku LKS *Titian Prestasi* merupakan bahan pembelajaran Pendidikan Agama Islam untuk tingkat Sekolah Dasar atau Madrasah Ibtidaiyah. Persoalan muncul ketika diterbitkan LKS Pendidikan Agama Islam lain dengan judul *Pandhan Simo*. Berdasarkan perbandingan kedua buku yang diuraikan dalam penelitian, materi dalam LKS *Pandhan Simo* memiliki kesamaan dengan LKS *Titian Prestasi*, terutama pada halaman 3 sampai dengan halaman 38.
+Pihak pemegang hak cipta *Titian Prestasi* menyatakan tidak pernah memberikan izin kepada pihak penerbit *Pandhan Simo* untuk menerbitkan buku dengan muatan yang sama. Persoalan tersebut kemudian menjadi perhatian karena karya yang telah disusun dan diterbitkan berpotensi dimanfaatkan oleh pihak lain tanpa persetujuan.
+Menariknya, penyelesaian permasalahan tersebut tidak ditempuh melalui gugatan di Pengadilan Niaga ataupun proses pidana, melainkan melalui mekanisme penyelesaian sengketa di luar pengadilan berupa musyawarah dan negosiasi.
+Kasus ini memiliki relevansi yang kuat dengan mata kuliah Inovasi PAI dan Etika Digital. Hal tersebut karena bahan ajar merupakan bagian penting dalam proses pendidikan. Buku LKS bukan hanya produk komersial, tetapi juga media yang membantu guru menyampaikan materi dan peserta didik memahami ajaran Islam.
+Apabila karya bahan ajar tidak dihargai, maka kreativitas guru, penulis, dan pengembang media pembelajaran dapat terhambat. Kondisi tersebut juga dapat melemahkan budaya akademik yang menjunjung tinggi kejujuran, tanggung jawab, dan integritas.
+Dalam perspektif Islam, penghormatan terhadap karya intelektual berkaitan dengan prinsip amanah, keadilan, kejujuran, dan larangan mengambil hak orang lain secara batil. Oleh sebab itu, persoalan HAKI tidak hanya dapat dilihat dari aspek hukum positif, tetapi juga perlu dikaji melalui pendekatan etika dan pendidikan karakter Islam.
+Lebih jauh, perkembangan teknologi digital menjadikan persoalan HAKI semakin kompleks. Bahan ajar yang sebelumnya berbentuk buku cetak sekarang dapat diubah menjadi PDF, e-book, modul digital, maupun konten pembelajaran berbasis internet. Kemudahan tersebut dapat mendukung inovasi pembelajaran, tetapi juga meningkatkan risiko penyalinan dan penyebaran karya tanpa izin.
+Dalam konteks inilah Pendidikan Agama Islam perlu mengambil peran strategis. Pendidikan Islam tidak cukup hanya mengajarkan pengetahuan agama, tetapi juga harus membangun kesadaran moral dalam memanfaatkan teknologi. Seorang pendidik yang inovatif bukan hanya mampu menghasilkan media pembelajaran yang menarik, melainkan juga memahami hak orang lain dan menjunjung tinggi integritas akademik.
+Berdasarkan uraian tersebut, penulis memandang perlu melakukan analisis secara menyeluruh terhadap kasus pelanggaran hak cipta buku LKS Pendidikan Agama Islam *Titian Prestasi*. Kajian ini diharapkan dapat memberikan pemahaman mengenai pentingnya perlindungan HAKI sekaligus merumuskan kontribusi Pendidikan Agama Islam dalam membangun budaya literasi digital yang beretika.
+ 
+B. Rumusan Masalah
+1.	Bagaimana konsep Hak Kekayaan Intelektual dan perlindungan hak cipta dalam dunia pendidikan?
+2.	Bagaimana kronologi kasus dugaan pelanggaran hak cipta buku LKS Pendidikan Agama Islam *Titian Prestasi* dan *Pandhan Simo*?
+3.	Bagaimana analisis kasus tersebut berdasarkan peraturan perundang-undangan tentang hak cipta?
+4.	Bagaimana penyelesaian sengketa dan bentuk perlindungan hukum terhadap pemegang hak cipta dalam kasus tersebut?
+5.	Bagaimana kasus tersebut dianalisis berdasarkan perspektif etika digital dan nilai-nilai Pendidikan Agama Islam?
+6.	Bagaimana dampak dugaan pelanggaran HAKI terhadap kreativitas pendidik dan pengembangan bahan ajar PAI?
+7.	Bagaimana strategi inovasi pembelajaran PAI dalam membangun kesadaran HAKI dan etika digital?
+C. Tujuan Penulisan
+1.	Menjelaskan konsep HAKI dan perlindungan hak cipta dalam bidang pendidikan.
+2.	Menguraikan kronologi kasus dugaan pelanggaran hak cipta buku LKS Pendidikan Agama Islam.
+3.	Menganalisis kasus berdasarkan ketentuan hukum hak cipta yang berlaku pada saat peristiwa terjadi.
+4.	Mengidentifikasi mekanisme penyelesaian sengketa dan perlindungan hukum bagi pemegang hak cipta.
+5.	Mengkaji persoalan hak cipta melalui perspektif etika digital dan nilai-nilai Islam.
+6.	Menganalisis dampak pelanggaran HAKI terhadap kreativitas guru dan pengembangan bahan ajar PAI.
+7.	Merumuskan strategi inovasi PAI untuk meningkatkan kesadaran HAKI dan etika digital.
+D. Manfaat Penulisan
+1.	Manfaat Teoretis**
+1.	Memberikan kontribusi pemikiran dalam pengembangan kajian HAKI, etika digital, dan Pendidikan Agama Islam, khususnya mengenai hubungan antara perlindungan karya intelektual dengan pembentukan karakter Islami.
+2.	Manfaat Praktis**
+3.	Memberikan pemahaman kepada guru, mahasiswa, penulis, penerbit, dan masyarakat mengenai pentingnya menghargai karya intelektual serta menghindari praktik plagiarisme dan penggandaan tanpa izin.
+4.	Manfaat Pendidikan**
+5.	Menjadi bahan pertimbangan bagi lembaga pendidikan dalam mengembangkan pembelajaran PAI yang mengintegrasikan literasi digital, kesadaran hukum, dan pendidikan karakter.
+
+BAB II
+KAJIAN TEORI
+A. Konsep Hak Kekayaan Intelektual
+Hak Kekayaan Intelektual merupakan hak yang timbul dari hasil kreativitas, pemikiran, dan kemampuan intelektual manusia yang menghasilkan karya tertentu.
+HAKI memberikan perlindungan kepada pencipta atau pemilik hak atas hasil kreativitasnya agar tidak dimanfaatkan pihak lain secara tidak sah.
+Secara umum, HAKI mencakup beberapa bentuk perlindungan, yaitu:
+1.	Hak cipta, yaitu perlindungan terhadap karya ilmu pengetahuan, seni, dan sastra.
+2.	Hak paten, yaitu perlindungan terhadap invensi di bidang teknologi.
+3.	Merek, yaitu perlindungan terhadap tanda pembeda barang dan jasa.
+4.	Desain industri, yaitu perlindungan terhadap kreasi bentuk dan konfigurasi produk.
+5.	Rahasia dagang, yaitu perlindungan terhadap informasi bisnis yang memiliki nilai ekonomi dan dijaga kerahasiaannya.
+Dalam dunia pendidikan, hak cipta memiliki peranan penting karena buku pelajaran, modul, artikel, bahan presentasi, dan media pembelajaran merupakan hasil kreativitas intelektual.
+B. Pengertian dan Ruang Lingkup Hak Cipta
+Hak cipta merupakan hak eksklusif pencipta yang timbul secara otomatis berdasarkan prinsip deklaratif setelah suatu ciptaan diwujudkan dalam bentuk nyata.
+Berdasarkan Undang-Undang Nomor 28 Tahun 2014 tentang Hak Cipta, perlindungan diberikan kepada berbagai karya di bidang ilmu pengetahuan, seni, dan sastra.
+Dalam konteks pendidikan, karya yang dapat memperoleh perlindungan hak cipta antara lain:
+1. Buku pelajaran.
+2. Modul dan bahan ajar.
+3. Lembar Kerja Siswa.
+4. Artikel ilmiah.
+5. Buku referensi.
+6. Media pembelajaran digital.
+7. Video pembelajaran.
+8. Desain dan ilustrasi pendidikan.
+Perlu dipahami bahwa hak cipta melindungi bentuk ekspresi suatu gagasan, bukan gagasan, fakta, atau metode pembelajaran itu sendiri.
+Sebagai contoh, konsep pembelajaran mengenai rukun Islam dapat digunakan oleh banyak guru. Akan tetapi, penyalinan secara substansial terhadap uraian, ilustrasi, susunan materi yang orisinal, atau bagian ekspresif dari buku orang lain tanpa dasar hukum yang sah dapat menimbulkan persoalan hak cipta.
+C. Hak Moral dan Hak Ekonomi
+Dalam perlindungan hak cipta terdapat dua aspek utama.
+1. Hak Moral
+Hak moral merupakan hak yang melekat pada diri pencipta. Hak ini berkaitan dengan pengakuan atas identitas pencipta dan perlindungan terhadap integritas karya.
+Dalam dunia pendidikan, hak moral dapat diwujudkan melalui pencantuman nama penulis, pengakuan atas sumber materi, dan larangan mengubah karya secara tidak sah dengan cara yang merugikan penciptanya.
+2. Hak Ekonomi
+Hak ekonomi merupakan hak eksklusif pencipta atau pemegang hak cipta untuk memperoleh manfaat ekonomi dari ciptaannya.
+Dalam konteks buku LKS, hak ekonomi berkaitan dengan penggandaan, penerbitan, pendistribusian, dan pemanfaatan buku untuk tujuan komersial.
+Penggunaan atau penggandaan suatu karya perlu memperhatikan izin dan pembatasan yang ditentukan dalam peraturan perundang-undangan.
+D. Prinsip Perlindungan Hak Cipta dalam Pendidikan
+Perlindungan hak cipta dalam pendidikan bertujuan menjaga keseimbangan antara kepentingan pencipta dan kebutuhan masyarakat untuk memperoleh pengetahuan.
+Ada beberapa prinsip penting yang perlu diperhatikan.
+1. Prinsip Penghargaan terhadap Pencipta
+Setiap karya yang dihasilkan melalui kreativitas dan kemampuan intelektual perlu dihargai.
+
+2. Prinsip Kejujuran Akademik
+Penggunaan sumber belajar harus dilakukan dengan mencantumkan identitas dan sumber secara benar.
+3. Prinsip Tanggung Jawab
+Guru, peserta didik, penulis, dan penerbit memiliki tanggung jawab dalam memanfaatkan karya orang lain secara sah.
+4. Prinsip Keseimbangan
+Perlindungan hak cipta tidak boleh menghilangkan kepentingan pendidikan dan akses terhadap pengetahuan. Oleh karena itu, penggunaan karya untuk kepentingan pendidikan harus memperhatikan ketentuan pengecualian dan pembatasan hak cipta.
+E. Etika Digital
+Etika digital merupakan seperangkat prinsip moral yang mengatur perilaku manusia dalam memanfaatkan teknologi informasi dan komunikasi.
+Etika digital tidak hanya berkaitan dengan kesantunan berkomunikasi di internet, tetapi juga mencakup penghormatan terhadap hak cipta, perlindungan privasi, kejujuran akademik, keamanan informasi, dan tanggung jawab dalam menyebarkan konten.
+Prinsip etika digital yang relevan dengan kasus ini meliputi:
+1. Menghargai karya intelektual orang lain.
+2. Tidak mengklaim karya orang lain sebagai karya sendiri.
+3. Mencantumkan sumber referensi secara benar.
+4. Tidak menggandakan dan menyebarkan karya secara melanggar hukum.
+5. Menggunakan teknologi untuk tujuan yang bermanfaat.
+6. Menjaga integritas akademik dalam kegiatan pembelajaran.
+F. HAKI dalam Perspektif Pendidikan Agama Islam
+Dalam Islam, penghormatan terhadap hak orang lain merupakan bagian penting dari ajaran akhlak dan muamalah.
+Meskipun istilah HAKI merupakan istilah hukum modern, nilai-nilai yang mendasari perlindungan terhadap hasil kreativitas dapat dikaitkan dengan sejumlah prinsip dalam Islam.
+ 
+1. Konsep Haqqul Ibtikar
+*Haqqul ibtikar* merupakan istilah yang digunakan dalam pembahasan fikih kontemporer untuk merujuk pada hak atas hasil kreativitas atau inovasi intelektual.
+Konsep ini berkaitan dengan penghargaan terhadap hasil pemikiran, penelitian, penulisan, dan kreativitas seseorang.
+Dalam konteks pendidikan, seorang penulis buku PAI telah mengerahkan kemampuan intelektual, waktu, pengetahuan, dan tenaga untuk menghasilkan bahan ajar. Oleh karena itu, hasil karyanya perlu dihormati dan tidak boleh dimanfaatkan secara tidak benar.
+2. Prinsip Amanah
+Amanah merupakan sikap bertanggung jawab dalam menjaga dan melaksanakan sesuatu yang dipercayakan kepada seseorang.
+Dalam QS. An-Nisa ayat 58, Allah SWT berfirman:
+إِنَّ اللَّهَ يَأْمُرُكُمْ أَنْ تُؤَدُّوا الْأَمَانَاتِ إِلَىٰ أَهْلِهَا
+Artinya:
+"Sesungguhnya Allah menyuruh kamu menyampaikan amanat kepada yang berhak menerimanya."
+Ayat tersebut mengajarkan bahwa setiap hak dan tanggung jawab harus diberikan kepada pihak yang berhak.
+Dalam konteks HAKI, amanah dapat diwujudkan melalui penghormatan terhadap karya penulis, pencantuman sumber, dan pemenuhan kewajiban penggunaan karya sesuai izin.
+3. Prinsip Keadilan
+Dalam QS. An-Nahl ayat 90, Allah SWT berfirman:
+إِنَّ اللَّهَ يَأْمُرُ بِالْعَدْلِ وَالْإِحْسَانِ
+Artinya:
+"Sesungguhnya Allah menyuruh (kamu) berlaku adil dan berbuat kebajikan."
+Keadilan dalam konteks hak cipta berarti menghargai hak pencipta dan tidak mengambil manfaat dari karya orang lain secara tidak benar.
+ 
+4. Larangan Mengambil Hak Orang Lain Secara Batil
+Dalam QS. An-Nisa ayat 29, Allah SWT berfirman:
+يَا أَيُّهَا الَّذِينَ آمَنُوا لَا تَأْكُلُوا أَمْوَالَكُمْ بَيْنَكُمْ بِالْبَاطِلِ إِلَّا أَنْ تَكُونَ تِجَارَةً عَنْ تَرَاضٍ مِنْكُمْ
+Artinya:
+"Wahai orang-orang yang beriman! Janganlah kamu saling memakan harta sesamamu dengan jalan yang batil, kecuali dalam perdagangan yang berlaku atas dasar suka sama suka di antara kamu."
+Ayat tersebut memberikan landasan etis bahwa seseorang tidak boleh mengambil manfaat dari hak orang lain secara tidak sah.
+5. Prinsip Kejujuran
+Kejujuran merupakan salah satu nilai utama dalam pendidikan Islam. Dalam aktivitas akademik, kejujuran diwujudkan melalui pengakuan terhadap sumber informasi dan tidak melakukan plagiarisme.
+Dengan demikian, penghormatan terhadap hak cipta dapat menjadi salah satu bentuk penerapan akhlak Islami dalam kehidupan akademik dan digital.
+
+BAB III
+GAMBARAN DAN KRONOLOGI KASUS
+A. Identitas Kasus
+Kasus yang dianalisis adalah dugaan pelanggaran hak cipta terhadap buku Lembar Kerja Siswa Pendidikan Agama Islam berjudul *Titian Prestasi* yang diterbitkan oleh CV Amanah Karya Mandiri Yogyakarta.
+Kasus ini dikaji dalam skripsi Rahman Hendrawanto (2007), Fakultas Hukum Universitas Islam Indonesia, dengan judul:
+*Perlindungan Hukum terhadap Pemegang Hak Cipta atas Buku yang Diterbitkan di Yogyakarta (Studi Kasus Pelanggaran Hak Cipta atas Buku Lembar Kerja Siswa yang Diterbitkan oleh CV Amanah Karya Mandiri Yogyakarta).*
+Objek yang dibandingkan dalam penelitian tersebut adalah:
+1.	Buku LKS Pendidikan Agama Islam *Titian Prestasi*, diterbitkan oleh CV Amanah Karya Mandiri Yogyakarta.
+2.	Buku LKS Pendidikan Agama Islam *Pandhan Simo*, yang dalam penelitian disebut diterbitkan dengan nama penerbit Karya Cipta.
+B. Kronologi Kasus
+Berdasarkan penelitian Rahman Hendrawanto (2007), kronologi kasus dapat diuraikan sebagai berikut.
+1. Penerbitan Buku LKS Titian Prestasi
+CV Amanah Karya Mandiri Yogyakarta menerbitkan buku LKS Pendidikan Agama Islam berjudul *Titian Prestasi*. Buku tersebut disusun untuk membantu guru dan peserta didik dalam proses pembelajaran PAI, khususnya di wilayah Kabupaten Gunungkidul, Kecamatan Karangmojo-Semanu.
+Buku tersebut terdiri atas 40 halaman dan memuat materi pembelajaran agama Islam bagi peserta didik tingkat Sekolah Dasar/Madrasah Ibtidaiyah.
+2. Munculnya Buku LKS Pandhan Simo
+Persoalan mulai muncul ketika terdapat buku LKS Pendidikan Agama Islam lain berjudul *Pandhan Simo* yang diterbitkan dengan identitas penerbit Karya Cipta.
+Buku tersebut memiliki perbedaan pada sampul, nama pengarang, susunan identitas, dan nama penerbit.
+Akan tetapi, berdasarkan perbandingan yang diuraikan dalam penelitian, muatan isi kedua buku memiliki kesamaan yang sangat kuat.
+3. Ditemukannya Kesamaan Materi
+Hasil perbandingan menunjukkan bahwa materi dalam buku *Pandhan Simo* memiliki kesamaan dengan buku *Titian Prestasi*, terutama pada halaman 3 sampai dengan halaman 38.
+Dengan demikian, bagian yang memiliki kesamaan mencakup sebagian besar isi buku, sedangkan perbedaan yang tampak terutama terdapat pada unsur sampul dan identitas penerbitan.
+4. Keberatan dari Pemegang Hak Cipta
+Pihak pemegang hak cipta *Titian Prestasi* menyatakan bahwa mereka tidak pernah memberikan izin, baik secara lisan maupun tertulis, kepada pihak penerbit *Pandhan Simo* untuk menerbitkan buku dengan isi yang sama.
+Keadaan tersebut kemudian menimbulkan keberatan karena karya yang telah disusun dan diterbitkan berpotensi dimanfaatkan oleh pihak lain tanpa persetujuan.
+5. Konsultasi kepada Instansi yang Berwenang
+Pihak pemegang hak cipta kemudian melakukan konsultasi kepada staf Direktorat Jenderal Hak Kekayaan Intelektual Kantor Wilayah Departemen Hukum dan HAM Daerah Istimewa Yogyakarta.
+Konsultasi dilakukan dengan memperlihatkan kedua buku yang dipermasalahkan untuk mendapatkan penjelasan mengenai perlindungan hukum hak cipta.
+6. Penelusuran terhadap Penerbitan Kedua Buku
+Berdasarkan keterangan yang dicatat dalam penelitian Rahman Hendrawanto, terdapat informasi bahwa penerbitan kedua buku memiliki keterkaitan dengan perusahaan penerbit yang sama, meskipun menggunakan nama penerbit yang berbeda.
+Informasi tersebut menjadi salah satu aspek yang menarik untuk dianalisis karena berkaitan dengan tanggung jawab penerbit dan transparansi identitas penerbitan.
+Namun, informasi tersebut harus dipahami sebagai temuan penelitian berdasarkan keterangan narasumber pada saat itu, bukan sebagai putusan pengadilan yang telah membuktikan tanggung jawab pidana pihak tertentu.
+7. Penyelesaian melalui Musyawarah dan Negosiasi
+Berdasarkan hasil penelitian Rahman Hendrawanto, penyelesaian permasalahan dilakukan melalui mekanisme alternatif penyelesaian sengketa atau *Alternative Dispute Resolution* (ADR), yaitu dengan pendekatan damai melalui musyawarah dan negosiasi.
+Pihak pemegang hak cipta tidak menempuh proses gugatan perdata di Pengadilan Niaga maupun tuntutan pidana dalam perkara tersebut.
+C. Pokok Permasalahan dalam Kasus
+Berdasarkan kronologi tersebut, terdapat beberapa persoalan utama yang dapat diidentifikasi.
+Pertama, terdapat dugaan penggandaan dan penerbitan kembali materi LKS yang memiliki kesamaan substansial dengan karya sebelumnya.
+Kedua, pemegang hak cipta menyatakan tidak memberikan izin atas penerbitan buku yang dipermasalahkan.
+Ketiga, terdapat persoalan mengenai transparansi identitas penerbit dan tanggung jawab pihak yang terlibat dalam proses penerbitan.
+Keempat, perlindungan hak cipta menjadi kurang optimal karena karya *Titian Prestasi* tidak dicatatkan kepada instansi yang berwenang pada saat itu, sebagaimana diuraikan dalam penelitian.
+Kelima, penyelesaian sengketa melalui musyawarah menunjukkan bahwa perlindungan hukum tidak selalu harus dilakukan melalui pengadilan, meskipun mekanisme litigasi tetap tersedia apabila diperlukan.
+
+BAB IV
+ANALISIS KASUS BERDASARKAN PERSPEKTIF HUKUM DAN ETIKA DIGITAL
+A. Analisis Berdasarkan Undang-Undang Hak Cipta
+Untuk menganalisis kasus ini secara tepat, perlu dibedakan antara hukum yang berlaku ketika kasus terjadi dan hukum yang berlaku saat ini.
+Kasus tersebut terjadi sekitar tahun 2006. Oleh karena itu, dasar hukum yang relevan pada saat peristiwa adalah Undang-Undang Nomor 19 Tahun 2002 tentang Hak Cipta.
+Sementara itu, Undang-Undang Nomor 28 Tahun 2014 digunakan sebagai pembanding untuk melihat perkembangan perlindungan hak cipta di Indonesia.
+1. Analisis Berdasarkan UU Nomor 19 Tahun 2002
+Pada saat kasus terjadi, UU Nomor 19 Tahun 2002 merupakan dasar hukum perlindungan hak cipta. Beberapa ketentuan yang relevan adalah sebagai berikut.
+a. Pasal 2 tentang Hak Eksklusif
+Pasal 2 ayat (1) menjelaskan bahwa hak cipta merupakan hak eksklusif bagi pencipta atau pemegang hak cipta untuk mengumumkan atau memperbanyak ciptaannya maupun memberikan izin untuk itu.
+Dalam kasus LKS *Titian Prestasi*, hak untuk memperbanyak dan menerbitkan karya merupakan bagian penting yang perlu dilindungi.
+Apabila pihak lain memperbanyak bagian substansial dari buku tersebut tanpa persetujuan atau dasar hukum yang sah, tindakan tersebut dapat menimbulkan persoalan pelanggaran hak cipta.
+b. Pasal 12 tentang Ciptaan yang Dilindungi
+Ketentuan ini memberikan perlindungan terhadap karya di bidang ilmu pengetahuan, seni, dan sastra, termasuk buku dan karya tulis lainnya.
+Buku LKS PAI merupakan karya tulis di bidang ilmu pengetahuan yang dapat memperoleh perlindungan hak cipta apabila memenuhi persyaratan perlindungan.
+c. Pasal 35 tentang Pendaftaran Ciptaan
+Pencatatan atau pendaftaran ciptaan dapat menjadi alat bukti administratif mengenai kepemilikan dan identitas ciptaan.
+Namun, pendaftaran bukan syarat mutlak lahirnya hak cipta. Oleh karena itu, tidak didaftarkannya LKS *Titian Prestasi* tidak serta-merta menghilangkan perlindungan hak cipta yang timbul secara otomatis setelah karya diwujudkan.
+d. Ketentuan Lisensi dan Izin Penggunaan
+UU Nomor 19 Tahun 2002 memberikan dasar pengaturan mengenai lisensi dan izin penggunaan hak ekonomi.
+Dalam konteks kasus ini, persoalan utamanya adalah adanya pernyataan bahwa penerbitan LKS *Pandhan Simo* tidak memperoleh izin dari pemegang hak cipta *Titian Prestasi*.
+Dengan demikian, aspek persetujuan dan ruang lingkup izin menjadi bagian penting dalam analisis hukum.
+2. Analisis Berdasarkan UU Nomor 28 Tahun 2014
+UU Nomor 28 Tahun 2014 merupakan peraturan yang menggantikan UU Nomor 19 Tahun 2002. Beberapa ketentuan yang relevan untuk memahami perlindungan hak cipta saat ini adalah:
+a. Pasal 1
+Pasal ini menjelaskan bahwa hak cipta merupakan hak eksklusif pencipta yang timbul secara otomatis berdasarkan prinsip deklaratif setelah suatu ciptaan diwujudkan dalam bentuk nyata.
+b. Pasal 5 tentang Hak Moral
+Hak moral melindungi hubungan antara pencipta dan ciptaannya, termasuk hak untuk dicantumkan namanya dan mempertahankan integritas karya.
+Dalam dunia pendidikan, pencantuman identitas penulis merupakan bentuk penghormatan terhadap hak moral.
+c. Pasal 8 dan Pasal 9 tentang Hak Ekonomi
+Pasal 8 menjelaskan pengertian hak ekonomi, sedangkan Pasal 9 mengatur berbagai bentuk hak ekonomi pencipta.
+Penggandaan dan penerbitan buku merupakan aktivitas yang harus memperhatikan hak ekonomi pencipta atau pemegang hak cipta.
+d. Pasal 40 tentang Ciptaan yang Dilindungi
+Buku, pamflet, dan karya tulis lainnya termasuk ciptaan yang dilindungi.
+Dengan demikian, buku LKS sebagai bahan pembelajaran dapat memperoleh perlindungan hukum sepanjang memenuhi ketentuan mengenai ciptaan yang dilindungi.
+ 
+e. Pasal 44 tentang Pembatasan Hak Cipta
+Pasal ini mengatur pengecualian penggunaan ciptaan untuk kepentingan tertentu, termasuk pendidikan, dengan syarat-syarat yang ditentukan undang-undang.
+Ketentuan ini penting karena penggunaan materi untuk pendidikan bukan berarti seseorang bebas menggandakan seluruh isi buku komersial tanpa batas.
+Penggunaan harus memperhatikan tujuan, sumber, kepentingan yang wajar, serta tidak merugikan kepentingan yang sah dari pencipta atau pemegang hak cipta.
+f. Pasal 95 tentang Penyelesaian Sengketa
+Pasal 95 mengatur penyelesaian sengketa hak cipta melalui alternatif penyelesaian sengketa, arbitrase, atau pengadilan.
+Ketentuan tersebut memperlihatkan bahwa penyelesaian secara damai merupakan salah satu pilihan yang dapat ditempuh dalam sengketa hak cipta.
+B. Analisis Unsur Dugaan Pelanggaran Hak Cipta
+Untuk mengetahui persoalan hukum dalam kasus tersebut, perlu dilakukan analisis terhadap beberapa unsur.
+1. Adanya Karya yang Dilindungi
+Buku LKS *Titian Prestasi* merupakan karya tulis yang telah diwujudkan dalam bentuk nyata dan diterbitkan.
+Karya tersebut memiliki susunan materi, uraian, dan bentuk penyajian yang dapat menjadi objek perlindungan hak cipta sepanjang merupakan ekspresi orisinal.
+2. Adanya Kesamaan Substansial
+Penelitian Rahman Hendrawanto menjelaskan bahwa materi LKS *Pandhan Simo* memiliki kesamaan dengan LKS *Titian Prestasi* pada halaman 3 sampai dengan halaman 38.
+Kesamaan substansial tersebut merupakan indikasi penting yang perlu diperhatikan dalam menganalisis dugaan penggandaan karya.
+Namun, dalam analisis hukum hak cipta, kesamaan tema, fakta, konsep agama, atau materi kurikulum saja belum cukup untuk membuktikan pelanggaran. Harus dilihat apakah yang disalin adalah ekspresi karya yang dilindungi, bukan sekadar ide atau pengetahuan umum.
+3. Adanya Dugaan Penggunaan Tanpa Izin
+Pihak pemegang hak cipta menyatakan tidak pernah memberikan izin kepada penerbit *Pandhan Simo*.
+Apabila penggunaan tersebut benar-benar mencakup penggandaan bagian substansial karya yang dilindungi tanpa izin atau dasar pengecualian hukum, maka tindakan tersebut dapat dikualifikasikan sebagai pelanggaran hak cipta.
+4. Adanya Potensi Kerugian
+Penggandaan dan penerbitan karya tanpa izin dapat menimbulkan kerugian bagi pencipta atau pemegang hak cipta.
+Kerugian dapat berupa berkurangnya kesempatan memperoleh manfaat ekonomi, hilangnya pengakuan terhadap pencipta, dan terganggunya reputasi karya.
+Dengan demikian, kasus ini memperlihatkan pentingnya perlindungan terhadap hak moral dan hak ekonomi.
+C. Analisis Perlindungan Hukum
+Berdasarkan penelitian Rahman Hendrawanto, terdapat dua bentuk perlindungan hukum yang dapat dikaji.
+1. Perlindungan Hukum Preventif
+Perlindungan preventif merupakan upaya untuk mencegah terjadinya pelanggaran sebelum sengketa muncul.
+Dalam kasus LKS *Titian Prestasi*, penelitian mencatat bahwa pemegang hak cipta tidak melakukan pencatatan ciptaan, lisensi, maupun pengalihan hak cipta sebagaimana dibahas dalam penelitian tersebut.
+Keadaan ini memperlihatkan pentingnya pengelolaan administrasi dan dokumentasi karya.
+Upaya preventif yang dapat dilakukan antara lain:
+- Mencatatkan ciptaan sebagai alat bukti administratif.
+- Menyimpan naskah asli dan dokumen proses penyusunan.
+- Membuat perjanjian tertulis dengan penerbit.
+- Mengatur kepemilikan hak cipta dan hak penerbitan secara jelas.
+- Menggunakan identitas penerbitan secara transparan.
+- Melakukan pengawasan terhadap penggandaan dan distribusi buku.
+Perlu ditekankan bahwa pencatatan bukan syarat lahirnya hak cipta, melainkan salah satu langkah untuk memperkuat pembuktian dan administrasi kepemilikan.
+ 
+2. Perlindungan Hukum Represif
+Perlindungan represif merupakan upaya hukum yang dilakukan setelah terjadi pelanggaran atau sengketa.
+Dalam kasus ini, penyelesaian dilakukan melalui musyawarah dan negosiasi.
+Pemegang hak cipta tidak melanjutkan perkara melalui gugatan perdata di Pengadilan Niaga maupun proses pidana sebagaimana dilaporkan dalam penelitian.
+Penyelesaian damai tersebut menunjukkan bahwa pendekatan nonlitigasi dapat menjadi alternatif dalam menyelesaikan sengketa HAKI.
+Namun, penyelesaian damai sebaiknya didukung dengan kesepakatan tertulis yang jelas mengenai penghentian penggunaan karya, pengakuan hak, penyelesaian kerugian apabila disepakati, dan pencegahan pengulangan perbuatan.
+D. Analisis Etika Digital
+Meskipun kasus LKS *Titian Prestasi* terjadi sebelum penggunaan internet dan teknologi digital berkembang seperti sekarang, nilai-nilai yang terkandung dalam kasus tersebut tetap relevan dengan persoalan etika digital masa kini.
+Saat ini, bahan ajar PAI dapat dibuat dan disebarluaskan dalam bentuk PDF, e-book, video, presentasi, dan aplikasi pembelajaran.
+Kemudahan teknologi memungkinkan seseorang menggandakan dan menyebarluaskan karya hanya dalam waktu singkat.
+Namun, kemudahan tersebut harus disertai tanggung jawab etis.
+Beberapa persoalan etika digital yang dapat diambil dari kasus ini adalah:
+1. Menghormati Hak Cipta
+Setiap pengguna teknologi perlu memahami bahwa karya yang tersedia secara digital tidak otomatis menjadi milik publik atau bebas digunakan tanpa batas.
+2. Menghindari Plagiarisme
+Mengambil karya orang lain dan mengakuinya sebagai karya sendiri merupakan tindakan yang bertentangan dengan integritas akademik.
+3. Menjunjung Transparansi
+Penerbit, penulis, guru, dan pengembang media pembelajaran harus memberikan informasi yang benar mengenai sumber dan kepemilikan karya.
+ 
+4. Bertanggung Jawab dalam Pemanfaatan Teknologi
+Teknologi harus digunakan untuk mendukung pengembangan ilmu pengetahuan, bukan untuk mengambil keuntungan dengan mengabaikan hak pencipta.
+5. Mengembangkan Budaya Berbagi yang Bertanggung Jawab
+Berbagi bahan ajar merupakan aktivitas yang positif apabila dilakukan dengan memperhatikan lisensi, izin, dan ketentuan hukum yang berlaku.
+
+BAB V
+ANALISIS KRITIS PENULIS: PERSPEKTIF PENDIDIKAN ISLAM DAN INOVASI PAI
+Bab ini merupakan bagian penting dari makalah karena berisi penilaian kritis penulis terhadap kasus, bukan sekadar pengulangan kronologi dan ketentuan hukum. Analisis diarahkan pada hubungan antara perlindungan HAKI, tanggung jawab moral, profesionalitas pendidik, dan pengembangan inovasi Pendidikan Agama Islam.
+A. Pelanggaran HAKI sebagai Persoalan Moral dan Integritas Pendidikan Islam
+Kasus LKS *Titian Prestasi* dan *Pandhan Simo* memperlihatkan bahwa persoalan hak cipta tidak dapat dipandang hanya sebagai konflik antara dua penerbit atau persoalan keuntungan ekonomi semata. Di balik sebuah buku bahan ajar terdapat proses intelektual yang melibatkan pemikiran, kreativitas, waktu, dan tanggung jawab akademik.
+Dalam perspektif Pendidikan Agama Islam, proses menghasilkan karya merupakan bagian dari ikhtiar manusia dalam mengembangkan ilmu pengetahuan. Oleh karena itu, hasil karya seseorang patut dihormati selama memenuhi ketentuan dan tidak bertentangan dengan prinsip syariat.
+Menurut analisis penulis, apabila suatu karya disalin secara substansial tanpa izin dan kemudian diterbitkan dengan identitas berbeda, persoalannya bukan hanya terletak pada pengambilan materi, tetapi juga pada hilangnya pengakuan terhadap usaha intelektual pencipta. Tindakan tersebut berpotensi bertentangan dengan nilai kejujuran, amanah, dan keadilan.
+Dalam pendidikan Islam, kejujuran tidak cukup hanya dipahami sebagai tidak berbohong dalam ucapan. Kejujuran juga harus diwujudkan dalam tindakan akademik, termasuk mengakui sumber pemikiran, menghargai hasil karya orang lain, dan tidak mengambil manfaat dari karya orang lain secara tidak benar.
+Dengan demikian, penghormatan terhadap HAKI seharusnya menjadi bagian dari implementasi akhlak mulia dalam kehidupan pendidikan.
+Hal yang perlu ditegaskan adalah bahwa tidak semua kesamaan materi PAI dapat dianggap sebagai pelanggaran. Materi seperti rukun Islam, rukun iman, tata cara wudu, sejarah nabi, dan ayat Al-Qur'an merupakan pengetahuan yang dapat dipelajari dan dijelaskan oleh banyak orang. Persoalan muncul apabila seseorang mengambil bentuk ekspresi kreatif orang lain, misalnya uraian orisinal, ilustrasi, struktur penyajian, atau kumpulan materi yang dilindungi, tanpa dasar penggunaan yang sah.
+Perbedaan ini penting agar pendidikan Islam tidak mengembangkan pemahaman HAKI secara berlebihan sehingga justru menghambat penyebaran ilmu pengetahuan.
+B. Hubungan Kasus dengan Konsep Haqqul Ibtikar
+Konsep *haqqul ibtikar* memberikan landasan untuk memahami pentingnya penghargaan terhadap hasil kreativitas manusia dalam perspektif fikih kontemporer.
+Penulis buku LKS PAI tidak hanya menyusun kumpulan materi keagamaan, tetapi juga melakukan proses intelektual berupa pemilihan kompetensi, penyusunan uraian, pengembangan latihan soal, dan pengaturan sistematika pembelajaran.
+Kegiatan tersebut memerlukan kemampuan dan kreativitas yang patut dihargai.
+Menurut analisis penulis, perlindungan terhadap hak cipta tidak bertentangan dengan ajaran Islam tentang penyebaran ilmu. Keduanya justru dapat berjalan beriringan.
+Islam mendorong umatnya untuk menuntut dan menyebarkan ilmu pengetahuan. Akan tetapi, penyebaran ilmu harus dilakukan dengan tetap menghormati hak orang lain.
+Sebagai contoh, seorang guru dapat mengembangkan materi tentang akhlak terpuji dengan menggunakan berbagai sumber. Guru juga dapat membuat soal dan modul sendiri berdasarkan kompetensi pembelajaran. Namun, guru tidak seharusnya menyalin seluruh isi modul berhak cipta milik orang lain dan mengakuinya sebagai hasil karya pribadi.
+Dengan demikian, konsep *haqqul ibtikar* dapat dijadikan landasan etis untuk membangun keseimbangan antara semangat berbagi ilmu dan kewajiban menghargai hasil kreativitas orang lain.
+C. Dampak Dugaan Pelanggaran HAKI terhadap Kreativitas dan Profesionalitas Guru PAI
+Menurut penulis, dampak dugaan pelanggaran hak cipta terhadap dunia pendidikan dapat melampaui kerugian ekonomi yang dialami penulis atau penerbit.
+Terdapat beberapa dampak yang perlu mendapat perhatian.
+1. Melemahkan Motivasi Kreativitas Guru
+Guru PAI dituntut untuk mengembangkan pembelajaran yang menarik, kontekstual, dan sesuai kebutuhan peserta didik. Untuk mewujudkan hal tersebut, guru sering membuat modul, lembar kerja, media presentasi, video pembelajaran, dan bahan evaluasi.
+Apabila hasil kreativitas tersebut dapat diambil dan diterbitkan kembali tanpa pengakuan atau izin yang semestinya, maka penghargaan terhadap proses kreatif menjadi berkurang.
+Kondisi tersebut berpotensi menurunkan motivasi pendidik untuk menghasilkan karya baru.
+2. Menghambat Pengembangan Profesionalitas Pendidik
+Profesionalitas guru tidak hanya diukur dari kemampuan menyampaikan materi, tetapi juga dari kemampuan mengembangkan bahan ajar secara mandiri dan bertanggung jawab.
+Guru yang memiliki integritas akademik akan menggunakan sumber secara benar, menciptakan materi yang sesuai kebutuhan peserta didik, dan menghargai karya orang lain.
+Sebaliknya, budaya menyalin tanpa izin dapat membentuk ketergantungan terhadap karya orang lain dan menghambat kemampuan inovatif guru.
+3. Melemahkan Budaya Akademik
+Pendidikan seharusnya menjadi ruang untuk membangun budaya keilmuan yang menjunjung tinggi kejujuran dan penghargaan terhadap pemikiran orang lain.
+Apabila praktik penyalinan karya dianggap sebagai hal biasa, maka peserta didik berpotensi meniru perilaku tersebut.
+Dalam jangka panjang, keadaan ini dapat melemahkan integritas akademik di lingkungan sekolah maupun perguruan tinggi.
+4. Menghambat Lahirnya Bahan Ajar yang Kontekstual
+Setiap daerah memiliki karakteristik sosial, budaya, dan kebutuhan pendidikan yang berbeda.
+Guru PAI seharusnya memiliki ruang untuk mengembangkan bahan ajar sesuai kondisi peserta didik. Akan tetapi, apabila budaya menyalin lebih dominan daripada budaya mencipta, maka peluang pengembangan bahan ajar yang kontekstual dapat berkurang.
+5. Menurunkan Kepercayaan terhadap Penerbit dan Lembaga Pendidikan
+Penerbit memiliki tanggung jawab untuk memastikan bahwa buku yang diterbitkan tidak melanggar hak pihak lain.
+Persoalan hak cipta yang tidak ditangani dengan baik dapat memengaruhi kepercayaan masyarakat terhadap penerbit dan lembaga pendidikan.
+Oleh sebab itu, integritas penerbitan merupakan bagian dari tanggung jawab profesional dalam dunia pendidikan.
+D. Kritik terhadap Paradigma Inovasi Pendidikan yang Hanya Berorientasi pada Produk
+Salah satu persoalan yang dapat direfleksikan dari kasus ini adalah kecenderungan memandang inovasi pendidikan hanya dari hasil akhirnya.
+Dalam praktik pendidikan, suatu bahan ajar sering dinilai berdasarkan tampilan, jumlah halaman, kelengkapan materi, dan kemudahan penggunaannya. Padahal, kualitas inovasi tidak hanya ditentukan oleh bentuk produk, tetapi juga oleh proses penciptaan dan tanggung jawab etis di baliknya.
+Menurut penulis, inovasi PAI seharusnya dibangun melalui tiga prinsip.
+Pertama, kreativitas. Guru perlu mengembangkan bahan ajar yang sesuai dengan kebutuhan peserta didik dan perkembangan teknologi.
+Kedua, orisinalitas. Bahan ajar harus memiliki kontribusi kreatif, bukan sekadar hasil penyalinan karya yang telah ada.
+Ketiga, tanggung jawab moral. Setiap proses pengembangan dan penggunaan bahan ajar harus menghormati hak pencipta, mencantumkan sumber, serta memperhatikan ketentuan lisensi.
+Dengan demikian, inovasi pendidikan tidak cukup menghasilkan produk yang menarik, tetapi harus menghasilkan karya yang dapat dipertanggungjawabkan secara akademik, hukum, dan moral.
+E. Menyeimbangkan Perlindungan HAKI dan Kepentingan Penyebaran Ilmu
+Dalam pendidikan Islam, terdapat dua kepentingan yang harus dijaga secara seimbang, yaitu penghormatan terhadap hak pencipta dan kemudahan masyarakat dalam memperoleh ilmu pengetahuan.
+Di satu sisi, pencipta memiliki hak untuk memperoleh pengakuan dan manfaat ekonomi atas karya yang dihasilkan.
+Di sisi lain, pendidikan memiliki misi sosial untuk menyebarkan pengetahuan secara luas dan memberikan kesempatan belajar kepada masyarakat.
+Kedua kepentingan tersebut tidak seharusnya dipertentangkan.
+Menurut penulis, solusi yang tepat adalah membangun budaya berbagi ilmu dengan tetap menghormati hak cipta. Misalnya, guru dapat:
+1.	Menggunakan buku yang diperoleh secara sah.
+2.	Mengutip bagian tertentu dari karya orang lain dengan memperhatikan ketentuan hukum dan pencantuman sumber.
+3.	Menggunakan materi berlisensi terbuka.
+4.	Membuat modul pembelajaran sendiri.
+5.	Meminta izin apabila penggunaan karya memerlukan izin.
+6.	Memanfaatkan sumber resmi yang memang disediakan untuk kepentingan pendidikan.
+Dengan demikian, semangat berbagi ilmu dalam Islam dapat berjalan seiring dengan perlindungan terhadap hak intelektual.
+F. Refleksi Kritis Penulis terhadap Kasus
+Berdasarkan keseluruhan pembahasan, penulis memandang bahwa kasus LKS *Titian Prestasi* dan *Pandhan Simo* memberikan pelajaran penting mengenai hubungan antara hukum, etika, dan pendidikan.
+Kasus tersebut menunjukkan bahwa bahan ajar bukan sekadar alat bantu pembelajaran, melainkan hasil kreativitas intelektual yang membutuhkan penghargaan dan perlindungan.
+Dari sisi hukum, perlindungan hak cipta memberikan kepastian mengenai hak pencipta dan pemegang hak cipta. Dari sisi pendidikan, penghormatan terhadap karya intelektual dapat mendorong terciptanya budaya akademik yang sehat. Sementara itu, dari sisi agama, penghormatan terhadap hak orang lain merupakan bagian dari penerapan akhlak Islami.
+Menurut penulis, salah satu tantangan terbesar pendidikan Islam pada era digital bukan hanya bagaimana menggunakan teknologi secara maksimal, tetapi bagaimana memastikan bahwa penggunaan teknologi tersebut tetap berlandaskan nilai-nilai agama.
+Guru PAI harus mampu menunjukkan bahwa kreativitas dan kejujuran dapat berjalan bersama. Menggunakan teknologi tidak boleh dijadikan alasan untuk mengambil karya orang lain secara sembarangan. Sebaliknya, teknologi harus menjadi sarana untuk menghasilkan karya baru yang lebih bermanfaat.
+Oleh karena itu, pendidikan PAI perlu bergerak dari sekadar pembelajaran mengenai nilai-nilai moral menuju praktik nyata penerapan nilai tersebut dalam kehidupan akademik dan digital.
+
+ 
+BAB VI
+IMPLIKASI TERHADAP INOVASI PENDIDIKAN AGAMA ISLAM
+A. Dampak Pelanggaran HAKI terhadap Pengembangan Bahan Ajar PAI
+Kasus LKS *Titian Prestasi* memberikan pelajaran bahwa perlindungan HAKI memiliki hubungan erat dengan keberlanjutan inovasi pendidikan.
+Apabila karya guru, penulis, atau pengembang bahan ajar mudah digandakan tanpa izin, maka motivasi untuk menghasilkan karya baru dapat menurun.
+Beberapa dampak yang dapat dianalisis adalah:
+1. Menurunnya Motivasi Kreativitas Pendidik
+Guru dan penulis membutuhkan penghargaan atas karya yang dihasilkan. Ketika karya tersebut digunakan tanpa pengakuan atau izin yang semestinya, motivasi untuk terus berinovasi dapat terganggu.
+2. Melemahnya Integritas Akademik
+Pembiaran terhadap plagiarisme dapat membentuk kebiasaan yang tidak sehat dalam lingkungan pendidikan.
+3. Menurunnya Kualitas Bahan Ajar
+Budaya menyalin karya orang lain tanpa proses pengembangan dapat menghambat munculnya bahan ajar yang kreatif, kontekstual, dan sesuai kebutuhan peserta didik.
+4. Terganggunya Hubungan Profesional
+Pelanggaran HAKI dapat menimbulkan konflik antara penulis, guru, penerbit, dan lembaga pendidikan.
+B. Strategi Inovasi PAI dalam Membangun Kesadaran HAKI
+Pendidikan Agama Islam memiliki peran strategis dalam membangun kesadaran mengenai hak cipta.
+Strategi yang dapat diterapkan adalah sebagai berikut.
+1. Integrasi Materi HAKI dalam Pembelajaran PAI
+Guru dapat menghubungkan materi akhlak, amanah, kejujuran, dan keadilan dengan persoalan hak cipta.
+Contohnya, ketika membahas perilaku jujur, guru dapat mengangkat kasus plagiarisme dan penggandaan bahan ajar tanpa izin.
+Dengan demikian, peserta didik memahami bahwa akhlak Islam juga harus diterapkan dalam aktivitas akademik dan digital.
+2. Pembelajaran Berbasis Studi Kasus
+Kasus LKS *Titian Prestasi* dapat dijadikan bahan diskusi dalam pembelajaran PAI.
+Peserta didik diminta menganalisis:
+- Apa bentuk persoalan dalam kasus tersebut?
+- Mengapa karya intelektual perlu dihargai?
+- Bagaimana hubungan plagiarisme dengan nilai kejujuran?
+- Bagaimana Islam mengajarkan penghormatan terhadap hak orang lain?
+- Bagaimana cara menggunakan sumber pembelajaran secara bertanggung jawab?
+Pendekatan ini dapat melatih kemampuan berpikir kritis dan reflektif peserta didik.
+3. Pengembangan Proyek Digital Islami
+Guru dapat memberikan proyek kepada peserta didik untuk membuat poster, video dakwah, infografis, atau modul pembelajaran PAI.
+Dalam proyek tersebut, peserta didik diwajibkan:
+- Membuat karya secara orisinal.
+- Mencantumkan sumber referensi.
+- Menggunakan gambar dan materi yang memiliki izin atau lisensi yang sesuai.
+- Menghindari penyalinan karya orang lain.
+- Menjelaskan tanggung jawab moral dalam proses pembuatan karya.
+4. Penggunaan Sumber Belajar Legal
+Guru PAI perlu membiasakan peserta didik menggunakan sumber belajar yang legal, seperti buku yang diperoleh secara sah, sumber terbuka dengan lisensi yang sesuai, dan materi digital yang memang diizinkan untuk digunakan.
+5. Pengembangan Budaya Akademik Islami
+Lembaga pendidikan perlu mengembangkan budaya akademik yang menempatkan kejujuran, tanggung jawab, amanah, dan penghargaan terhadap karya orang lain sebagai bagian dari karakter peserta didik.
+ 
+C. Model Pembelajaran Inovatif Berbasis HAKI dan Etika Digital
+Sebagai bentuk penerapan, penulis mengusulkan model pembelajaran yang mengintegrasikan studi kasus, pendidikan karakter, dan proyek digital.
+Model ini dapat dinamakan **Model Pembelajaran PAI Berbasis Literasi HAKI dan Etika Digital**.
+Model tersebut dapat dilaksanakan melalui enam tahapan.
+| Tahapan | Aktivitas Pembelajaran |
+| Orientasi | Guru mengenalkan konsep HAKI dan etika digital. |
+| Identifikasi kasus | Peserta didik mempelajari kasus LKS PAI *Titian Prestasi*. |
+| Analisis kritis | Peserta didik mengidentifikasi persoalan hukum dan moral. |
+| Integrasi nilai Islam | Peserta didik menghubungkan kasus dengan amanah, kejujuran, dan keadilan. |
+| Proyek kreatif | Peserta didik membuat media pembelajaran PAI yang orisinal. |
+| Refleksi | Peserta didik menyampaikan komitmen menghargai hak cipta. |
+Model ini dapat menggunakan pendekatan *case-based learning* dan *project-based learning*.
+1. Tujuan Model Pembelajaran
+Model ini bertujuan:
+- Meningkatkan pemahaman peserta didik mengenai HAKI.
+- Mengembangkan sikap jujur dan bertanggung jawab dalam menggunakan sumber digital.
+- Membiasakan peserta didik menghargai karya intelektual orang lain.
+- Mengembangkan kreativitas dalam menghasilkan media pembelajaran Islami.
+- Mengintegrasikan nilai-nilai akhlak Islam dalam aktivitas digital.
+2. Contoh Implementasi
+Dalam pembelajaran PAI, guru dapat memberikan tugas kepada peserta didik untuk membuat infografis mengenai akhlak terpuji.
+Peserta didik diperbolehkan menggunakan berbagai referensi, tetapi harus memperhatikan ketentuan berikut:
+1. Menggunakan sumber yang dapat dipertanggungjawabkan.
+2. Tidak menyalin desain dan isi karya orang lain secara keseluruhan.
+3. Mencantumkan referensi yang digunakan.
+4. Memperhatikan lisensi gambar atau ilustrasi.
+5. Mengembangkan desain dan penjelasan berdasarkan kreativitas sendiri.
+Setelah tugas selesai, guru mengajak peserta didik melakukan refleksi mengenai hubungan antara kejujuran, amanah, dan penghormatan terhadap hak cipta.
+Melalui kegiatan tersebut, peserta didik tidak hanya mengetahui konsep HAKI, tetapi juga mempraktikkan etika digital secara langsung.
+D. Peran Guru PAI dalam Membangun Etika Digital
+Guru PAI memiliki peran penting dalam membentuk perilaku peserta didik di era digital.
+Guru tidak hanya bertugas menyampaikan materi keagamaan, tetapi juga menjadi teladan dalam penggunaan teknologi secara bertanggung jawab.
+Peran tersebut dapat diwujudkan melalui beberapa tindakan:
+1.	Memberikan contoh dalam mencantumkan sumber materi pembelajaran.
+2.	Menghindari penggunaan bahan ajar hasil plagiarisme.
+3.	Mengembangkan media pembelajaran yang orisinal.
+4.	Memberikan pemahaman mengenai hak cipta dan lisensi digital.
+5.	Menanamkan nilai amanah dan kejujuran dalam penggunaan teknologi.
+6.	Membimbing peserta didik agar mampu membedakan informasi yang bebas digunakan dan karya yang memerlukan izin.
+Dengan demikian, guru PAI berperan sebagai pendidik, pembimbing moral, sekaligus teladan dalam membangun budaya digital yang beretika.
+E. Rekomendasi Strategis bagi Lembaga Pendidikan
+Untuk mendukung implementasi literasi HAKI, lembaga pendidikan perlu melakukan beberapa langkah strategis.
+Pertama, menyusun pedoman penggunaan sumber belajar yang memperhatikan hak cipta.
+Kedua, memberikan pelatihan kepada guru mengenai pembuatan bahan ajar digital yang orisinal dan legal.
+Ketiga, mengembangkan perpustakaan digital yang menyediakan sumber pembelajaran dengan lisensi yang jelas.
+Keempat, membangun budaya akademik yang menghargai kreativitas dan menghindari plagiarisme.
+Kelima, melakukan evaluasi terhadap bahan ajar yang digunakan di sekolah agar sumber dan kepemilikannya dapat dipertanggungjawabkan.
+Melalui strategi tersebut, inovasi PAI dapat berkembang secara lebih sistematis, tidak hanya berorientasi pada penggunaan teknologi, tetapi juga pada pembentukan karakter dan integritas akademik.
+BAB VII
+PENUTUP
+A. Kesimpulan
+Berdasarkan pembahasan yang telah diuraikan, dapat disimpulkan bahwa Hak Kekayaan Intelektual, khususnya hak cipta, merupakan aspek penting yang perlu diperhatikan dalam dunia pendidikan. Buku, modul, dan bahan ajar merupakan hasil kreativitas intelektual yang memiliki nilai akademik maupun ekonomi sehingga perlu memperoleh perlindungan hukum.
+Kasus LKS Pendidikan Agama Islam *Titian Prestasi* yang diterbitkan oleh CV Amanah Karya Mandiri Yogyakarta menunjukkan adanya persoalan dugaan pelanggaran hak cipta melalui penerbitan LKS lain berjudul *Pandhan Simo*. Berdasarkan penelitian Rahman Hendrawanto (2007), kedua buku tersebut memiliki kesamaan materi yang sangat kuat, khususnya pada halaman 3 sampai dengan halaman 38. Pihak pemegang hak cipta *Titian Prestasi* menyatakan tidak pernah memberikan izin atas penerbitan buku yang dipermasalahkan.
+Dari perspektif hukum, kasus tersebut perlu dianalisis berdasarkan Undang-Undang Nomor 19 Tahun 2002 tentang Hak Cipta karena peristiwa terjadi sekitar tahun 2006. Ketentuan tersebut memberikan perlindungan terhadap hak eksklusif pencipta dan pemegang hak cipta, termasuk hak untuk memperbanyak dan memberikan izin penggunaan karya. Sementara itu, Undang-Undang Nomor 28 Tahun 2014 dapat digunakan sebagai kerangka pembanding untuk memahami perkembangan perlindungan hak cipta saat ini.
+Penelitian terhadap kasus ini juga menunjukkan bahwa penyelesaian sengketa ditempuh melalui musyawarah dan negosiasi di luar pengadilan. Hal tersebut memperlihatkan bahwa alternatif penyelesaian sengketa dapat menjadi sarana penyelesaian persoalan HAKI dengan mengedepankan dialog dan kesepakatan.
+Dari perspektif etika digital, kasus tersebut memberikan pelajaran bahwa penggunaan karya intelektual harus dilandasi sikap menghargai pencipta, menjunjung kejujuran, menjaga transparansi, dan bertanggung jawab dalam pemanfaatan teknologi. Kemudahan memperoleh dan menggandakan informasi tidak berarti seseorang bebas menggunakan karya orang lain tanpa memperhatikan hak cipta.
+Dalam perspektif Pendidikan Agama Islam, penghormatan terhadap HAKI dapat dikaitkan dengan prinsip amanah, keadilan, kejujuran, musyawarah, dan larangan mengambil hak orang lain secara batil. Konsep *haqqul ibtikar* juga memberikan landasan pemikiran mengenai pentingnya menghargai hasil kreativitas dan karya intelektual seseorang.
+Secara kritis, kasus ini menunjukkan bahwa dugaan pelanggaran HAKI tidak hanya berdampak pada pencipta atau penerbit yang dirugikan, tetapi juga dapat memengaruhi ekosistem pendidikan. Praktik penyalinan karya tanpa izin berpotensi melemahkan motivasi guru dan penulis untuk menghasilkan bahan ajar yang inovatif, menurunkan integritas akademik, dan menghambat perkembangan budaya keilmuan.
+Oleh karena itu, inovasi pembelajaran PAI perlu mengintegrasikan literasi HAKI, etika digital, dan pendidikan karakter. Pembelajaran PAI tidak hanya berorientasi pada pemahaman materi keagamaan, tetapi juga membentuk peserta didik yang kreatif, jujur, bertanggung jawab, dan mampu memanfaatkan teknologi berdasarkan nilai-nilai Islam.
+Dengan demikian, keberhasilan inovasi PAI pada era digital tidak cukup diukur dari kemampuan menggunakan teknologi, tetapi juga dari kemampuan menjaga nilai-nilai moral, menghormati hak orang lain, dan menghasilkan karya yang dapat dipertanggungjawabkan secara akademik, hukum, dan agama.
+B. Saran
+Berdasarkan kesimpulan tersebut, penulis memberikan beberapa saran.
+1. Bagi Pemerintah
+Pemerintah perlu meningkatkan sosialisasi dan pengawasan terhadap perlindungan hak cipta, khususnya dalam penerbitan buku dan pengembangan bahan ajar pendidikan.
+2. Bagi Penerbit
+Penerbit perlu menjaga profesionalitas, transparansi, dan tanggung jawab dalam proses penerbitan buku. Setiap penggunaan karya pihak lain harus memperhatikan perizinan dan ketentuan hukum yang berlaku.
+3. Bagi Guru PAI
+Guru PAI perlu meningkatkan pemahaman mengenai HAKI dan etika digital serta memberikan keteladanan dalam penggunaan sumber pembelajaran secara bertanggung jawab. Guru juga perlu mengembangkan bahan ajar secara kreatif dan orisinal.
+4. Bagi Lembaga Pendidikan
+Lembaga pendidikan perlu mengintegrasikan literasi HAKI, kejujuran akademik, dan etika digital ke dalam program pembelajaran dan budaya akademik.
+ 
+5. Bagi Peserta Didik dan Mahasiswa
+Peserta didik dan mahasiswa perlu membiasakan diri menghargai karya intelektual orang lain dengan mencantumkan sumber, menghindari plagiarisme, serta menggunakan bahan ajar digital sesuai ketentuan.
+6. Bagi Peneliti Selanjutnya
+Penelitian mengenai HAKI dalam pendidikan Islam perlu dikembangkan dengan mengkaji kasus-kasus yang berkaitan dengan pembajakan buku keagamaan, penggunaan konten dakwah tanpa izin, plagiarisme karya ilmiah, dan pemanfaatan kecerdasan buatan dalam pembuatan bahan ajar PAI.
+
+DAFTAR PUSTAKA
+Al-Qur'an al-Karim.
+Djumhana, Muhammad, dan R. Djubaedillah. (2003). *Hak Milik Intelektual: Sejarah, Teori dan Prakteknya di Indonesia*. Bandung: Citra Aditya Bakti.
+Hendrawanto, Rahman. (2007). *Perlindungan Hukum terhadap Pemegang Hak Cipta atas Buku yang Diterbitkan di Yogyakarta (Studi Kasus Pelanggaran Hak Cipta atas Buku Lembar Kerja Siswa yang Diterbitkan oleh CV Amanah Karya Mandiri Yogyakarta)*. Skripsi. Fakultas Hukum, Universitas Islam Indonesia, Yogyakarta.
+Margono, Suyud. (2003). *Hukum dan Perlindungan Hak Cipta*. Jakarta: Novindo Pustaka Mandiri.
+Riswandi, Budi Agus, dan M. Syamsudin. (2005). *Hak Kekayaan Intelektual dan Budaya Hukum*. Jakarta: RajaGrafindo Persada.
+Republik Indonesia. (2002). *Undang-Undang Nomor 19 Tahun 2002 tentang Hak Cipta*. Lembaran Negara Republik Indonesia Tahun 2002 Nomor 85.
+Republik Indonesia. (2014). *Undang-Undang Nomor 28 Tahun 2014 tentang Hak Cipta*. Lembaran Negara Republik Indonesia Tahun 2014 Nomor 266.
+
+SUMBER UTAMA KAJIAN KASUS
+Hendrawanto, Rahman. (2007). *Perlindungan Hukum terhadap Pemegang Hak Cipta atas Buku yang Diterbitkan di Yogyakarta*. Universitas Islam Indonesia.
+Repositori Universitas Islam Indonesia:
+https://dspace.uii.ac.id/handle/123456789/31853
+
+SUMBER PERATURAN PERUNDANG-UNDANGAN
+Undang-Undang Nomor 19 Tahun 2002 tentang Hak Cipta:
+https://peraturan.bpk.go.id/Details/44465/uu-no-19-tahun-2002
+Undang-Undang Nomor 28 Tahun 2014 tentang Hak Cipta:
+https://peraturan.bpk.go.id/Details/38690/uu-no-28-tahun-2014
+
+CATATAN METODOLOGIS
+Makalah ini disusun berdasarkan studi kepustakaan, terutama penelitian Rahman Hendrawanto (2007). Kronologi, keterangan pihak-pihak, dan hasil penyelesaian sengketa disampaikan berdasarkan informasi yang tercantum dalam penelitian tersebut. Makalah ini bukan hasil pemeriksaan langsung terhadap para pihak dan bukan putusan pengadilan.
+Analisis mengenai UU Nomor 19 Tahun 2002 digunakan untuk menilai konteks hukum historis kasus, sedangkan UU Nomor 28 Tahun 2014 digunakan untuk membandingkan perkembangan perlindungan hak cipta. Dengan demikian, ketentuan hukum yang lebih baru tidak diterapkan secara surut terhadap peristiwa yang terjadi pada sekitar tahun 2006.
+Analisis kritis dalam makalah ini merupakan interpretasi akademik penulis terhadap implikasi kasus bagi dunia pendidikan Islam. Kesimpulan mengenai pelanggaran secara hukum tetap harus memperhatikan bukti, status kepemilikan hak, bentuk kesamaan karya, dan ketentuan hukum yang berlaku.
