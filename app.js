@@ -410,7 +410,7 @@ let slide = 0;
 
 function showSlide() {
   const presentation = $("#presentation");
-  const presBody = $("#presBody");
+  const presBody = $("#presBody");presentation.scrollTop = 0;
   const slideNumber = $("#slideNumber");
   const prevButton = $("#prevSlide");
   const nextButton = $("#nextSlide");

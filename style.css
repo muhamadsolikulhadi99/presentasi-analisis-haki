@@ -2060,3 +2060,159 @@ a,
     max-height: 260px;
   }
 }
+
+
+
+/* =====================================================
+   FIX FINAL MODE PRESENTASI - HP DAN LAPTOP
+   Letakkan paling akhir agar mengalahkan aturan lama.
+   ===================================================== */
+
+/* Jangan gunakan flex untuk wadah yang harus menggulir.
+   display:block membuat tinggi konten menentukan panjang area scroll. */
+#presentation.presentation.active {
+  display: block !important;
+  position: fixed !important;
+  inset: 0 !important;
+  width: 100% !important;
+  height: 100vh !important;
+  height: 100dvh !important;
+  min-height: 0 !important;
+  overflow-x: hidden !important;
+  overflow-y: auto !important;
+  -webkit-overflow-scrolling: touch !important;
+  overscroll-behavior-y: contain;
+  padding: 0 !important;
+}
+
+/* Konten dimulai dari atas dan boleh lebih tinggi dari layar. */
+#presentation.presentation.active .pres-inner {
+  display: block !important;
+  width: min(1120px, 100%) !important;
+  max-width: 100% !important;
+  min-height: 100% !important;
+  height: auto !important;
+  margin: 0 auto !important;
+  padding: 76px 28px 36px !important;
+  box-sizing: border-box !important;
+}
+
+/* Navigasi menjadi bagian dari konten, bukan menempel di bawah layar. */
+#presentation.presentation.active .pres-controls {
+  position: relative !important;
+  inset: auto !important;
+  top: auto !important;
+  right: auto !important;
+  bottom: auto !important;
+  left: auto !important;
+  display: grid !important;
+  grid-template-columns: minmax(0, 1fr) auto minmax(0, 1fr) !important;
+  width: 100% !important;
+  min-height: 44px !important;
+  margin: 8px 0 20px !important;
+  padding: 0 !important;
+  z-index: 10 !important;
+}
+
+#presentation.presentation.active #prevSlide { justify-self: start !important; }
+#presentation.presentation.active #nextSlide { justify-self: end !important; }
+#presentation.presentation.active #slideNumber {
+  justify-self: center !important;
+  white-space: nowrap !important;
+}
+
+/* Slide tidak boleh memaksa lebar layar atau memotong teks. */
+#presentation.presentation.active #presBody,
+#presentation.presentation.active .pres-layout,
+#presentation.presentation.active .pres-content,
+#presentation.presentation.active .pres-art {
+  min-width: 0 !important;
+  max-width: 100% !important;
+}
+
+#presentation.presentation.active .pres-layout {
+  align-items: start !important;
+}
+
+#presentation.presentation.active .pres-content h2 {
+  font-size: clamp(25px, 3.2vw, 42px) !important;
+  line-height: 1.2 !important;
+  overflow-wrap: anywhere;
+}
+
+#presentation.presentation.active .pres-content p {
+  font-size: clamp(15px, 1.45vw, 19px) !important;
+  line-height: 1.55 !important;
+}
+
+#presentation.presentation.active .pres-content li {
+  font-size: clamp(14px, 1.2vw, 17px) !important;
+  line-height: 1.5 !important;
+  overflow-wrap: anywhere;
+}
+
+/* Tombol keluar tetap mudah dijangkau saat halaman digulir. */
+#presentation.presentation.active .close-pres {
+  position: fixed !important;
+  top: max(10px, env(safe-area-inset-top)) !important;
+  right: 12px !important;
+  z-index: 10030 !important;
+}
+
+@media (max-width: 700px) {
+  #presentation.presentation.active .pres-inner {
+    padding: 68px 16px 28px !important;
+  }
+
+  #presentation.presentation.active .pres-controls {
+    gap: 5px !important;
+    margin: 8px 0 16px !important;
+  }
+
+  #presentation.presentation.active .pres-controls button {
+    min-width: 0 !important;
+    min-height: 38px !important;
+    padding: 8px 8px !important;
+    font-size: 11px !important;
+    white-space: nowrap !important;
+  }
+
+  #presentation.presentation.active #slideNumber {
+    font-size: 10px !important;
+  }
+
+  #presentation.presentation.active .pres-layout {
+    display: grid !important;
+    grid-template-columns: minmax(0, 1fr) !important;
+    gap: 12px !important;
+  }
+
+  #presentation.presentation.active .pres-content h2 {
+    font-size: clamp(23px, 6vw, 29px) !important;
+  }
+
+  #presentation.presentation.active .pres-content p {
+    font-size: 15px !important;
+  }
+
+  #presentation.presentation.active .pres-content li {
+    font-size: 14px !important;
+  }
+
+  #presentation.presentation.active .pres-art .pres-visual {
+    height: 175px !important;
+    max-width: 100% !important;
+  }
+}
+
+@media (max-width: 360px) {
+  #presentation.presentation.active .pres-inner {
+    padding-left: 10px !important;
+    padding-right: 10px !important;
+  }
+
+  #presentation.presentation.active .pres-controls button {
+    padding: 7px 5px !important;
+    font-size: 10px !important;
+  }
+}
