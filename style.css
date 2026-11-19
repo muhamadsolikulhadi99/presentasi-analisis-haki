@@ -1849,3 +1849,214 @@ a,
     font-size: 12px;
   }
 }
+
+/* =====================================================
+   PENYESUAIAN FINAL MODE PRESENTASI
+   - Area slide dapat digulir pada laptop dan HP
+   - Navigasi berada di atas isi slide
+   - Ukuran teks lebih seimbang dan responsif
+   ===================================================== */
+
+/* Jadikan layar presentasi sebagai area gulir vertikal. */
+#presentation,
+.presentation {
+  height: 100vh !important;
+  height: 100dvh !important;
+  min-height: 0 !important;
+  overflow-x: hidden !important;
+  overflow-y: auto !important;
+  -webkit-overflow-scrolling: touch;
+  overscroll-behavior-y: contain;
+  align-items: flex-start !important;
+  justify-content: flex-start !important;
+}
+
+/* Mulai konten dari atas, bukan dipusatkan secara vertikal. */
+#presentation .pres-inner,
+.presentation .pres-inner {
+  width: min(1120px, 100%) !important;
+  max-width: 100% !important;
+  min-width: 0 !important;
+  margin: 0 auto !important;
+  padding: 82px 28px 42px !important;
+  box-sizing: border-box !important;
+  flex: 0 0 auto;
+}
+
+/* Navigasi berada di bawah label mode presentasi dan sebelum isi slide. */
+#presentation .pres-controls,
+.presentation .pres-controls {
+  position: relative !important;
+  inset: auto !important;
+  width: 100% !important;
+  min-height: 44px;
+  display: grid !important;
+  grid-template-columns: minmax(0, 1fr) auto minmax(0, 1fr);
+  align-items: center;
+  gap: 10px;
+  margin: 12px 0 22px !important;
+  padding: 0 !important;
+  z-index: 5;
+  box-sizing: border-box;
+}
+
+#presentation #prevSlide,
+.presentation #prevSlide {
+  justify-self: start;
+}
+
+#presentation #nextSlide,
+.presentation #nextSlide {
+  justify-self: end;
+}
+
+#presentation #slideNumber,
+.presentation #slideNumber {
+  justify-self: center;
+  text-align: center;
+  white-space: nowrap;
+}
+
+/* Tombol nyaman disentuh dan tidak terpotong. */
+#presentation .pres-controls button,
+.presentation .pres-controls button {
+  min-width: 0;
+  min-height: 40px;
+  padding: 9px 13px;
+  font-size: 13px;
+  line-height: 1.2;
+  white-space: nowrap;
+}
+
+/* Ukuran teks laptop: sedikit lebih ringkas agar lebih banyak isi terbaca. */
+#presentation .pres-content h2,
+#presBody h2 {
+  font-size: clamp(29px, 3.1vw, 43px);
+  line-height: 1.2;
+  margin: 12px 0 16px;
+  overflow-wrap: anywhere;
+}
+
+#presentation .pres-content p,
+#presBody p {
+  font-size: clamp(16px, 1.35vw, 19px);
+  line-height: 1.6;
+  margin: 10px 0;
+}
+
+#presentation .pres-content li,
+#presBody li {
+  font-size: clamp(15px, 1.2vw, 17px);
+  line-height: 1.55;
+  margin: 7px 0;
+}
+
+#presentation .pres-content ul,
+#presBody ul {
+  padding-left: 23px;
+}
+
+/* Pastikan kolom teks dan ilustrasi tidak memaksa halaman melebar. */
+#presentation .pres-layout {
+  align-items: start;
+  min-width: 0;
+}
+
+#presentation .pres-content,
+#presentation .pres-art {
+  min-width: 0;
+}
+
+/* HP dan tablet kecil: satu kolom, teks mudah dibaca, gulir tetap aktif. */
+@media (max-width: 700px) {
+  #presentation .pres-inner,
+  .presentation .pres-inner {
+    width: 100% !important;
+    padding: 72px 17px 30px !important;
+  }
+
+  #presentation .pres-controls,
+  .presentation .pres-controls {
+    gap: 5px;
+    margin: 10px 0 17px !important;
+  }
+
+  #presentation .pres-controls button,
+  .presentation .pres-controls button {
+    min-height: 38px;
+    padding: 8px 9px;
+    font-size: 11px;
+  }
+
+  #presentation #slideNumber,
+  .presentation #slideNumber {
+    font-size: 11px;
+  }
+
+  #presentation .pres-layout {
+    grid-template-columns: minmax(0, 1fr) !important;
+    gap: 14px;
+  }
+
+  #presentation .pres-content h2,
+  #presBody h2 {
+    font-size: clamp(24px, 6vw, 29px);
+    line-height: 1.23;
+    margin: 10px 0 13px;
+  }
+
+  #presentation .pres-content p,
+  #presBody p {
+    font-size: 15px;
+    line-height: 1.58;
+  }
+
+  #presentation .pres-content li,
+  #presBody li {
+    font-size: 14px;
+    line-height: 1.5;
+    margin: 6px 0;
+  }
+
+  #presentation .pres-art {
+    max-width: 100%;
+  }
+
+  #presentation .pres-art .pres-visual {
+    max-width: 100%;
+    height: 190px;
+  }
+}
+
+/* HP sangat kecil: rapatkan kontrol tanpa menghilangkan tombol. */
+@media (max-width: 380px) {
+  #presentation .pres-inner,
+  .presentation .pres-inner {
+    padding-left: 12px !important;
+    padding-right: 12px !important;
+  }
+
+  #presentation .pres-controls button,
+  .presentation .pres-controls button {
+    padding: 8px 6px;
+    font-size: 10px;
+  }
+
+  #presentation #slideNumber,
+  .presentation #slideNumber {
+    font-size: 10px;
+  }
+}
+
+/* Layar laptop pendek tetap bisa digulir dan tidak memotong isi. */
+@media (min-width: 701px) and (max-height: 750px) {
+  #presentation .pres-inner,
+  .presentation .pres-inner {
+    padding-top: 70px !important;
+    padding-bottom: 28px !important;
+  }
+
+  #presentation .pres-art .pres-visual {
+    max-height: 260px;
+  }
+}
