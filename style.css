@@ -1,18 +1,344 @@
+
 @import url('https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600;700&family=Playfair+Display:wght@500;600;700&display=swap');
-:root{--navy:#0a1830;--navy2:#102746;--gold:#d8b56a;--gold2:#f0d89f;--ink:#17243a;--muted:#66758a;--paper:#f6f7f9;--card:#fff;--line:#e3e7ed;--soft:#edf1f6}
-*{box-sizing:border-box}html{scroll-behavior:smooth;scroll-padding-top:90px}body{margin:0;background:var(--paper);color:var(--ink);font-family:'DM Sans',sans-serif;line-height:1.65}.topbar{height:76px;background:#08162b;color:#fff;display:flex;align-items:center;justify-content:space-between;padding:0 max(5vw,22px);position:sticky;top:0;z-index:20;border-bottom:1px solid #ffffff1c}.brand{display:flex;align-items:center;gap:11px;color:#fff;text-decoration:none;font-weight:700;letter-spacing:.12em;font-size:12px}.brand small{display:block;font-size:8px;color:#aebbd0;letter-spacing:.17em;margin-top:2px}.brand-mark{width:34px;height:34px;border:1px solid var(--gold);color:var(--gold);display:grid;place-items:center;font-family:Georgia;font-size:22px}.topbar nav{display:flex;gap:26px}.topbar nav a{font-size:12px;color:#d4dbe5;text-decoration:none}.topbar nav a:hover{color:var(--gold)}.tools{display:flex;gap:10px}.icon-btn,.menu-toggle{background:transparent;border:1px solid #52627a;color:white;border-radius:8px;padding:8px 11px;cursor:pointer}.menu-toggle{display:none}.gold-btn,.outline-btn{display:inline-flex;align-items:center;gap:12px;padding:12px 18px;border-radius:5px;text-decoration:none;font-size:12px;font-weight:700;cursor:pointer}.gold-btn{background:var(--gold);color:#17243a;border:1px solid var(--gold)}.gold-btn:hover{background:var(--gold2)}.outline-btn{border:1px solid #ffffff65;color:#fff}.hero{background:radial-gradient(circle at 80% 48%,#183a60 0,#102746 28%,#0a1830 66%);color:#fff;padding:76px max(7vw,24px) 24px;min-height:560px;position:relative;overflow:hidden}.hero-grid{max-width:1180px;margin:auto;display:grid;grid-template-columns:1.2fr .8fr;align-items:center;gap:50px;min-height:420px}.eyebrow,.section-kicker,.mini-label,.task-label{font-size:10px;letter-spacing:.2em;font-weight:700;color:var(--gold)}.eyebrow span{display:inline-block;width:24px;height:1px;background:var(--gold);vertical-align:middle;margin-right:9px}.task-label{color:#9eabc0;margin:28px 0 9px}.hero h1{font-family:'Playfair Display',serif;font-size:clamp(38px,5vw,62px);line-height:1.12;max-width:690px;margin:0 0 20px;font-weight:600}.hero h1 em,.section h2 em,.closing h2 em{color:var(--gold);font-style:normal}.hero-desc{max-width:600px;color:#c4cedb;font-size:15px}.hero-actions{display:flex;gap:12px;flex-wrap:wrap;margin:28px 0}.hero-meta{font-size:9px;letter-spacing:.13em;color:#8f9eb3;display:flex;gap:14px;align-items:center;flex-wrap:wrap}.hero-meta i{width:4px;height:4px;background:var(--gold);border-radius:50%}.hero-art{height:370px;position:relative;display:grid;place-items:center}.orb{position:absolute;border-radius:50%;border:1px solid #d8b56a35}.orb-one{width:330px;height:330px}.orb-two{width:260px;height:260px}.book-plate{width:220px;height:290px;background:linear-gradient(145deg,#e2c98f,#b18b48);box-shadow:20px 25px 45px #020b1b88;transform:rotate(5deg);padding:32px 25px;color:#13213a;position:relative}.book-line{height:1px;background:#18264066;margin-bottom:42px}.book-title{font:600 37px/1.08 'Playfair Display',serif;letter-spacing:.02em}.book-title span{color:#fff}.book-sub{font-size:8px;letter-spacing:.17em;margin-top:16px}.book-seal{position:absolute;bottom:22px;right:23px;border:1px solid #18264088;border-radius:50%;width:35px;height:35px;display:grid;place-items:center}.art-caption{position:absolute;bottom:5px;right:0;font-size:8px;letter-spacing:.17em;color:#91a4bd;text-align:right}.art-caption b{color:var(--gold)}.hero-bottom{max-width:1180px;margin:38px auto 0;border-top:1px solid #ffffff28;padding-top:16px;display:flex;justify-content:space-between;font-size:9px;letter-spacing:.16em;color:#93a2b7}.section{max-width:1120px;margin:auto;padding:86px 24px}.section-kicker{color:#a17b37}.identity-grid{display:grid;grid-template-columns:1fr 1fr;gap:45px;margin-top:20px}.section h2{font:600 clamp(30px,4vw,44px)/1.2 'Playfair Display',serif;margin:12px 0}.section h2 em{color:#a9823f}.section p{color:var(--muted);font-size:14px}.members{border-left:1px solid var(--line);padding:10px 0 10px 32px}.members p{margin:7px 0;color:var(--ink)}.members small{font-size:11px;color:#8b96a5}.mini-label{color:#9a773c}.paper-title-card{margin-top:36px;padding:24px 28px;background:#fff;border-left:3px solid var(--gold);box-shadow:0 8px 30px #1027460c}.paper-title-card span{font-size:9px;letter-spacing:.17em;color:#9a773c;font-weight:700}.paper-title-card h3{font:600 19px/1.5 'Playfair Display',serif;margin:10px 0 0}.section-heading{display:flex;justify-content:space-between;align-items:end;gap:25px;margin-bottom:28px}.section-heading p{max-width:650px;margin-bottom:0}.chapter-count{font:600 25px 'Playfair Display',serif;color:#b08b4d}.summary-grid{display:grid;grid-template-columns:repeat(2,1fr);gap:14px}.summary-card{background:var(--card);border:1px solid var(--line);padding:23px;border-radius:8px;transition:.2s}.summary-card:hover{transform:translateY(-3px);box-shadow:0 12px 28px #10274612}.summary-card .num{color:#b18b48;font-size:10px;letter-spacing:.16em;font-weight:700}.summary-card h3{font:600 21px 'Playfair Display',serif;margin:8px 0}.summary-card p{font-size:13px;margin:0 0 13px}.summary-card ul{padding-left:18px;margin:0;color:#536176;font-size:12px}.summary-card button{margin-top:17px;border:0;background:none;color:#947036;font-weight:700;font-size:11px;cursor:pointer;padding:0}.reading-section{max-width:1200px}.reader-toolbar{display:flex;gap:8px;margin:20px 0;align-items:center}.searchbox{display:flex;align-items:center;gap:9px;background:#fff;border:1px solid var(--line);padding:0 12px;border-radius:6px;flex:1;max-width:600px}.searchbox span{font-size:21px;color:#a17b37}.searchbox input{border:0;outline:0;padding:12px 0;width:100%;font:13px 'DM Sans'}.soft-btn{background:#fff;border:1px solid var(--line);padding:10px 13px;border-radius:6px;color:#46546a;cursor:pointer;font-size:11px}.reader-layout{display:grid;grid-template-columns:220px 1fr;gap:24px;align-items:start}.toc{background:#fff;border:1px solid var(--line);padding:18px;border-radius:7px;position:sticky;top:94px;max-height:72vh;overflow:auto}.toc b{font-size:9px;letter-spacing:.16em;color:#9a773c}.toc a{display:block;text-decoration:none;color:#5d6b7d;font-size:11px;padding:8px 0;border-bottom:1px solid #eef0f3}.toc a:hover{color:#9a773c}.paper-content{background:#fff;border:1px solid var(--line);border-radius:7px;padding:clamp(22px,4vw,48px);font-size:15px;line-height:1.85;min-width:0;overflow-wrap:anywhere}.paper-content h2{font:600 26px 'Playfair Display',serif;color:#102746;border-bottom:1px solid #e9dfcb;padding-bottom:12px;margin:32px 0 16px}.paper-content h3{font:600 18px 'Playfair Display',serif;color:#8a682f;margin:25px 0 8px}.paper-content p{margin:8px 0;color:#36445a;white-space:pre-wrap}.paper-content .doc-front{text-align:center;margin:15px 0 35px}.paper-content .doc-front h2{border:0}.paper-content mark{background:#f8e7b9;color:#17243a;padding:0 2px}.privacy-note{font-size:11px;color:#8b96a5}.closing{background:#0a1830;color:#fff;text-align:center;padding:75px 24px}.closing h2{font:600 clamp(29px,4vw,43px)/1.25 'Playfair Display',serif;max-width:820px;margin:18px auto}.closing p{color:#b8c4d4;font-size:13px}.closing a{display:inline-block;color:var(--gold);margin-top:20px;font-size:12px;text-decoration:none}footer{background:#061225;color:#8998ad;padding:18px 5vw;display:flex;justify-content:space-between;font-size:9px;letter-spacing:.14em}.presentation{display:none;position:fixed;inset:0;background:radial-gradient(circle at 75% 20%,#19385c,#08162b 65%);color:#fff;z-index:50;padding:8vh 8vw}.presentation.active{display:grid;place-items:center}.close-pres{position:absolute;top:24px;right:30px;background:transparent;border:1px solid #8290a5;color:#fff;padding:10px 14px;border-radius:5px;cursor:pointer}.pres-inner{width:min(900px,100%)}.pres-kicker{font-size:10px;letter-spacing:.2em;color:var(--gold)}#presBody h2{font:600 clamp(36px,6vw,64px)/1.12 'Playfair Display',serif;margin:24px 0}#presBody p{font-size:clamp(16px,2vw,20px);color:#c6d0de;max-width:780px}#presBody li{font-size:clamp(14px,1.7vw,18px);color:#e1e6ee;margin:10px 0}.pres-controls{display:flex;justify-content:space-between;align-items:center;margin-top:55px;border-top:1px solid #ffffff30;padding-top:18px}.pres-controls button{background:transparent;border:1px solid #7d8ca1;color:#fff;padding:10px 16px;border-radius:5px;cursor:pointer}.pres-controls span{font-size:11px;color:#aab6c7}.dark{--paper:#0d1727;--ink:#e7edf5;--muted:#a5b2c4;--card:#14243a;--line:#263951;--soft:#172b44}.dark .summary-card,.dark .paper-title-card,.dark .paper-content,.dark .toc,.dark .searchbox,.dark .soft-btn{background:#14243a;color:#e7edf5}.dark .paper-content p,.dark .summary-card ul,.dark .members p{color:#c1cddd}.dark .paper-content h2{color:#e8d4aa}.dark .paper-title-card h3{color:#e7edf5}.dark .searchbox input{background:transparent;color:#fff}.dark .toc a{color:#c1cddd}
-@media(max-width:850px){.topbar nav{display:none;position:absolute;top:76px;left:0;right:0;background:#08162b;padding:18px 24px;flex-direction:column;gap:15px}.topbar nav.open{display:flex}.menu-toggle{display:block;margin-left:auto;margin-right:10px}.tools{gap:6px}.hero-grid{grid-template-columns:1fr;gap:0}.hero-art{height:280px}.hero{padding-top:55px}.hero-bottom{margin-top:10px}.reader-layout{grid-template-columns:1fr}.toc{position:relative;top:auto;max-height:none}.toc #tocLinks{display:grid;grid-template-columns:repeat(2,1fr);gap:0 15px}.identity-grid{grid-template-columns:1fr;gap:18px}.members{border-left:0;border-top:1px solid var(--line);padding:18px 0}.summary-grid{grid-template-columns:1fr 1fr}}
-@media(max-width:560px){.topbar{padding:0 15px;height:66px}.topbar nav{top:66px}.brand{font-size:10px}.brand-mark{width:30px;height:30px}.tools .gold-btn{font-size:10px;padding:9px}.hero{padding:45px 22px 20px}.hero h1{font-size:39px}.hero-desc{font-size:13px}.hero-art{height:260px}.book-plate{transform:scale(.82) rotate(5deg)}.hero-meta{line-height:2}.hero-bottom{font-size:8px;gap:10px}.section{padding:58px 20px}.section-heading{align-items:start}.chapter-count{font-size:19px}.summary-grid{grid-template-columns:1fr}.reader-toolbar{flex-wrap:wrap}.searchbox{flex-basis:100%;max-width:none}.reader-layout{gap:12px}.paper-content{padding:20px;font-size:14px}.paper-content h2{font-size:23px}.toc #tocLinks{grid-template-columns:1fr}.paper-title-card{padding:19px}.paper-title-card h3{font-size:17px}.presentation{padding:75px 24px 30px}.pres-controls{margin-top:35px}footer{gap:12px;flex-direction:column}}
+
+/* =====================================
+   1. VARIABEL DAN PENGATURAN DASAR
+===================================== */
+
+:root {
+  --navy: #0a1830;
+  --navy2: #102746;
+  --gold: #d8b56a;
+  --gold2: #f0d89f;
+  --ink: #17243a;
+  --muted: #66758a;
+  --paper: #f6f7f9;
+  --card: #fff;
+  --line: #e3e7ed;
+  --soft: #edf1f6;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+html {
+  scroll-behavior: smooth;
+  scroll-padding-top: 90px;
+}
+
+body {
+  margin: 0;
+  background: var(--paper);
+  color: var(--ink);
+  font-family: 'DM Sans', sans-serif;
+  line-height: 1.65;
+}
+
+/* =====================================
+   2. HEADER DAN NAVIGASI
+===================================== */
+
+.topbar {
+  height: 76px;
+  background: #08162b;
+  color: #fff;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 0 max(5vw, 22px);
+  position: sticky;
+  top: 0;
+  z-index: 20;
+  border-bottom: 1px solid #ffffff1c;
+}
+
+.brand {
+  display: flex;
+  align-items: center;
+  gap: 11px;
+  color: #fff;
+  text-decoration: none;
+  font-weight: 700;
+  letter-spacing: .12em;
+  font-size: 12px;
+}
+
+.brand small {
+  display: block;
+  font-size: 8px;
+  color: #aebbd0;
+  letter-spacing: .17em;
+  margin-top: 2px;
+}
+
 .brand-logo {
   width: 44px;
   height: 44px;
   object-fit: contain;
-  background: #ffffff;
+  background: #fff;
   border-radius: 8px;
   padding: 3px;
   flex-shrink: 0;
 }
-/* Identitas kampus pada halaman sampul */
+
+.topbar nav {
+  display: flex;
+  gap: 26px;
+}
+
+.topbar nav a {
+  font-size: 12px;
+  color: #d4dbe5;
+  text-decoration: none;
+}
+
+.topbar nav a:hover {
+  color: var(--gold);
+}
+
+.tools {
+  display: flex;
+  gap: 10px;
+}
+
+.icon-btn,
+.menu-toggle {
+  background: transparent;
+  border: 1px solid #52627a;
+  color: white;
+  border-radius: 8px;
+  padding: 8px 11px;
+  cursor: pointer;
+}
+
+.menu-toggle {
+  display: none;
+}
+
+.gold-btn,
+.outline-btn {
+  display: inline-flex;
+  align-items: center;
+  gap: 12px;
+  padding: 12px 18px;
+  border-radius: 5px;
+  text-decoration: none;
+  font-size: 12px;
+  font-weight: 700;
+  cursor: pointer;
+}
+
+.gold-btn {
+  background: var(--gold);
+  color: #17243a;
+  border: 1px solid var(--gold);
+}
+
+.gold-btn:hover {
+  background: var(--gold2);
+}
+
+.outline-btn {
+  border: 1px solid #ffffff65;
+  color: #fff;
+}
+
+/* =====================================
+   3. HALAMAN BERANDA
+===================================== */
+
+.hero {
+  background: radial-gradient(
+    circle at 80% 48%,
+    #183a60 0,
+    #102746 28%,
+    #0a1830 66%
+  );
+  color: #fff;
+  padding: 76px max(7vw, 24px) 24px;
+  min-height: 560px;
+  position: relative;
+  overflow: hidden;
+}
+
+.hero-grid {
+  max-width: 1180px;
+  margin: auto;
+  display: grid;
+  grid-template-columns: 1.2fr .8fr;
+  align-items: center;
+  gap: 50px;
+  min-height: 420px;
+}
+
+.eyebrow,
+.section-kicker,
+.mini-label,
+.task-label {
+  font-size: 10px;
+  letter-spacing: .2em;
+  font-weight: 700;
+  color: var(--gold);
+}
+
+.eyebrow span {
+  display: inline-block;
+  width: 24px;
+  height: 1px;
+  background: var(--gold);
+  vertical-align: middle;
+  margin-right: 9px;
+}
+
+.task-label {
+  color: #9eabc0;
+  margin: 28px 0 9px;
+}
+
+.hero h1 {
+  font-family: 'Playfair Display', serif;
+  font-size: clamp(38px, 5vw, 62px);
+  line-height: 1.12;
+  max-width: 690px;
+  margin: 0 0 20px;
+  font-weight: 600;
+}
+
+.hero h1 em,
+.section h2 em,
+.closing h2 em {
+  color: var(--gold);
+  font-style: normal;
+}
+
+.hero-desc {
+  max-width: 600px;
+  color: #c4cedb;
+  font-size: 15px;
+}
+
+.hero-actions {
+  display: flex;
+  gap: 12px;
+  flex-wrap: wrap;
+  margin: 28px 0;
+}
+
+.hero-meta {
+  font-size: 9px;
+  letter-spacing: .13em;
+  color: #8f9eb3;
+  display: flex;
+  gap: 14px;
+  align-items: center;
+  flex-wrap: wrap;
+}
+
+.hero-meta i {
+  width: 4px;
+  height: 4px;
+  background: var(--gold);
+  border-radius: 50%;
+}
+
+.hero-art {
+  height: 370px;
+  position: relative;
+  display: grid;
+  place-items: center;
+}
+
+.orb {
+  position: absolute;
+  border-radius: 50%;
+  border: 1px solid #d8b56a35;
+}
+
+.orb-one {
+  width: 330px;
+  height: 330px;
+}
+
+.orb-two {
+  width: 260px;
+  height: 260px;
+}
+
+.book-plate {
+  width: 220px;
+  height: 290px;
+  background: linear-gradient(145deg, #e2c98f, #b18b48);
+  box-shadow: 20px 25px 45px #020b1b88;
+  transform: rotate(5deg);
+  padding: 32px 25px;
+  color: #13213a;
+  position: relative;
+}
+
+.book-line {
+  height: 1px;
+  background: #18264066;
+  margin-bottom: 42px;
+}
+
+.book-title {
+  font: 600 37px/1.08 'Playfair Display', serif;
+  letter-spacing: .02em;
+}
+
+.book-title span {
+  color: #fff;
+}
+
+.book-sub {
+  font-size: 8px;
+  letter-spacing: .17em;
+  margin-top: 16px;
+}
+
+.book-seal {
+  position: absolute;
+  bottom: 22px;
+  right: 23px;
+  border: 1px solid #18264088;
+  border-radius: 50%;
+  width: 35px;
+  height: 35px;
+  display: grid;
+  place-items: center;
+}
+
+.art-caption {
+  position: absolute;
+  bottom: 5px;
+  right: 0;
+  font-size: 8px;
+  letter-spacing: .17em;
+  color: #91a4bd;
+  text-align: right;
+}
+
+.art-caption b {
+  color: var(--gold);
+}
+
+.hero-bottom {
+  max-width: 1180px;
+  margin: 38px auto 0;
+  border-top: 1px solid #ffffff28;
+  padding-top: 16px;
+  display: flex;
+  justify-content: space-between;
+  font-size: 9px;
+  letter-spacing: .16em;
+  color: #93a2b7;
+}
+
+/* =====================================
+   4. IDENTITAS KAMPUS
+===================================== */
+
 .hero-institution {
   display: flex;
   align-items: center;
@@ -24,10 +350,10 @@
   width: 62px;
   height: 62px;
   object-fit: contain;
-  background: #ffffff;
+  background: #fff;
   padding: 5px;
   border-radius: 12px;
-  border: 1px solid rgba(212, 175, 95, 0.5);
+  border: 1px solid rgba(212, 175, 95, .5);
   flex-shrink: 0;
 }
 
@@ -38,7 +364,7 @@
 }
 
 .hero-institution strong {
-  color: #ffffff;
+  color: #fff;
   font-size: 12px;
   letter-spacing: 1.2px;
 }
@@ -49,7 +375,636 @@
   letter-spacing: 1.5px;
 }
 
-@media (max-width: 600px) {
+/* =====================================
+   5. BAGIAN IDENTITAS DAN RINGKASAN
+===================================== */
+
+.section {
+  max-width: 1120px;
+  margin: auto;
+  padding: 86px 24px;
+}
+
+.section-kicker {
+  color: #a17b37;
+}
+
+.identity-grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 45px;
+  margin-top: 20px;
+}
+
+.section h2 {
+  font: 600 clamp(30px, 4vw, 44px)/1.2 'Playfair Display', serif;
+  margin: 12px 0;
+}
+
+.section h2 em {
+  color: #a9823f;
+}
+
+.section p {
+  color: var(--muted);
+  font-size: 14px;
+}
+
+.members {
+  border-left: 1px solid var(--line);
+  padding: 10px 0 10px 32px;
+}
+
+.members p {
+  margin: 7px 0;
+  color: var(--ink);
+}
+
+.members small {
+  font-size: 11px;
+  color: #8b96a5;
+}
+
+.mini-label {
+  color: #9a773c;
+}
+
+.paper-title-card {
+  margin-top: 36px;
+  padding: 24px 28px;
+  background: #fff;
+  border-left: 3px solid var(--gold);
+  box-shadow: 0 8px 30px #1027460c;
+}
+
+.paper-title-card span {
+  font-size: 9px;
+  letter-spacing: .17em;
+  color: #9a773c;
+  font-weight: 700;
+}
+
+.paper-title-card h3 {
+  font: 600 19px/1.5 'Playfair Display', serif;
+  margin: 10px 0 0;
+}
+
+.section-heading {
+  display: flex;
+  justify-content: space-between;
+  align-items: end;
+  gap: 25px;
+  margin-bottom: 28px;
+}
+
+.section-heading p {
+  max-width: 650px;
+  margin-bottom: 0;
+}
+
+.chapter-count {
+  font: 600 25px 'Playfair Display', serif;
+  color: #b08b4d;
+}
+
+.summary-grid {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 14px;
+}
+
+.summary-card {
+  background: var(--card);
+  border: 1px solid var(--line);
+  padding: 23px;
+  border-radius: 8px;
+  transition: .2s;
+}
+
+.summary-card:hover {
+  transform: translateY(-3px);
+  box-shadow: 0 12px 28px #10274612;
+}
+
+.summary-card .num {
+  color: #b18b48;
+  font-size: 10px;
+  letter-spacing: .16em;
+  font-weight: 700;
+}
+
+.summary-card h3 {
+  font: 600 21px 'Playfair Display', serif;
+  margin: 8px 0;
+}
+
+.summary-card p {
+  font-size: 13px;
+  margin: 0 0 13px;
+}
+
+.summary-card ul {
+  padding-left: 18px;
+  margin: 0;
+  color: #536176;
+  font-size: 12px;
+}
+
+.summary-card button {
+  margin-top: 17px;
+  border: 0;
+  background: none;
+  color: #947036;
+  font-weight: 700;
+  font-size: 11px;
+  cursor: pointer;
+  padding: 0;
+}
+
+/* =====================================
+   6. PEMBACA MAKALAH
+===================================== */
+
+.reading-section {
+  max-width: 1200px;
+}
+
+.reader-toolbar {
+  display: flex;
+  gap: 8px;
+  margin: 20px 0;
+  align-items: center;
+}
+
+.searchbox {
+  display: flex;
+  align-items: center;
+  gap: 9px;
+  background: #fff;
+  border: 1px solid var(--line);
+  padding: 0 12px;
+  border-radius: 6px;
+  flex: 1;
+  max-width: 600px;
+}
+
+.searchbox span {
+  font-size: 21px;
+  color: #a17b37;
+}
+
+.searchbox input {
+  border: 0;
+  outline: 0;
+  padding: 12px 0;
+  width: 100%;
+  font: 13px 'DM Sans';
+}
+
+.soft-btn {
+  background: #fff;
+  border: 1px solid var(--line);
+  padding: 10px 13px;
+  border-radius: 6px;
+  color: #46546a;
+  cursor: pointer;
+  font-size: 11px;
+}
+
+.reader-layout {
+  display: grid;
+  grid-template-columns: 220px 1fr;
+  gap: 24px;
+  align-items: start;
+}
+
+.toc {
+  background: #fff;
+  border: 1px solid var(--line);
+  padding: 18px;
+  border-radius: 7px;
+  position: sticky;
+  top: 94px;
+  max-height: 72vh;
+  overflow: auto;
+}
+
+.toc b {
+  font-size: 9px;
+  letter-spacing: .16em;
+  color: #9a773c;
+}
+
+.toc a {
+  display: block;
+  text-decoration: none;
+  color: #5d6b7d;
+  font-size: 11px;
+  padding: 8px 0;
+  border-bottom: 1px solid #eef0f3;
+}
+
+.toc a:hover {
+  color: #9a773c;
+}
+
+.paper-content {
+  background: #fff;
+  border: 1px solid var(--line);
+  border-radius: 7px;
+  padding: clamp(22px, 4vw, 48px);
+  font-size: 15px;
+  line-height: 1.85;
+  min-width: 0;
+  overflow-wrap: anywhere;
+}
+
+.paper-content h2 {
+  font: 600 26px 'Playfair Display', serif;
+  color: #102746;
+  border-bottom: 1px solid #e9dfcb;
+  padding-bottom: 12px;
+  margin: 32px 0 16px;
+}
+
+.paper-content h3 {
+  font: 600 18px 'Playfair Display', serif;
+  color: #8a682f;
+  margin: 25px 0 8px;
+}
+
+.paper-content p {
+  margin: 8px 0;
+  color: #36445a;
+  white-space: pre-wrap;
+}
+
+.paper-content .doc-front {
+  text-align: center;
+  margin: 15px 0 35px;
+}
+
+.paper-content .doc-front h2 {
+  border: 0;
+}
+
+.paper-content mark {
+  background: #f8e7b9;
+  color: #17243a;
+  padding: 0 2px;
+}
+
+.privacy-note {
+  font-size: 11px;
+  color: #8b96a5;
+}
+
+/* =====================================
+   7. BAGIAN PENUTUP DAN FOOTER
+===================================== */
+
+.closing {
+  background: #0a1830;
+  color: #fff;
+  text-align: center;
+  padding: 75px 24px;
+}
+
+.closing h2 {
+  font: 600 clamp(29px, 4vw, 43px)/1.25 'Playfair Display', serif;
+  max-width: 820px;
+  margin: 18px auto;
+}
+
+.closing h2 em {
+  color: var(--gold);
+}
+
+.closing p {
+  color: #b8c4d4;
+  font-size: 13px;
+}
+
+.closing a {
+  display: inline-block;
+  color: var(--gold);
+  margin-top: 20px;
+  font-size: 12px;
+  text-decoration: none;
+}
+
+footer {
+  background: #061225;
+  color: #8998ad;
+  padding: 18px 5vw;
+  display: flex;
+  justify-content: space-between;
+  font-size: 9px;
+  letter-spacing: .14em;
+}
+
+/* =====================================
+   8. MODE GELAP
+===================================== */
+
+.dark {
+  --paper: #0d1727;
+  --ink: #e7edf5;
+  --muted: #a5b2c4;
+  --card: #14243a;
+  --line: #263951;
+  --soft: #172b44;
+}
+
+.dark .summary-card,
+.dark .paper-title-card,
+.dark .paper-content,
+.dark .toc,
+.dark .searchbox,
+.dark .soft-btn {
+  background: #14243a;
+  color: #e7edf5;
+}
+
+.dark .paper-content p,
+.dark .summary-card ul,
+.dark .members p {
+  color: #c1cddd;
+}
+
+.dark .paper-content h2 {
+  color: #e8d4aa;
+}
+
+.dark .paper-title-card h3 {
+  color: #e7edf5;
+}
+
+.dark .searchbox input {
+  background: transparent;
+  color: #fff;
+}
+
+.dark .toc a {
+  color: #c1cddd;
+}
+
+/* =====================================
+   9. MODE PRESENTASI
+===================================== */
+
+.presentation {
+  display: none;
+  position: fixed;
+  inset: 0;
+  width: 100%;
+  height: 100%;
+  overflow-y: auto;
+  overflow-x: hidden;
+  background: radial-gradient(
+    circle at 75% 20%,
+    #19385c,
+    #08162b 65%
+  );
+  color: #fff;
+  z-index: 1000;
+  padding: 75px 8vw 120px;
+}
+
+.presentation.active {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.close-pres {
+  position: fixed;
+  top: 24px;
+  right: 30px;
+  z-index: 1003;
+  background: #08162b;
+  border: 1px solid #8290a5;
+  color: #fff;
+  padding: 10px 14px;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.pres-inner {
+  width: min(900px, 100%);
+  margin: auto;
+  padding-bottom: 90px;
+}
+
+.pres-kicker {
+  font-size: 10px;
+  letter-spacing: .2em;
+  color: var(--gold);
+}
+
+#presBody h2 {
+  font: 600 clamp(36px, 6vw, 64px)/1.12 'Playfair Display', serif;
+  margin: 24px 0;
+}
+
+#presBody p {
+  font-size: clamp(16px, 2vw, 20px);
+  color: #c6d0de;
+  max-width: 780px;
+}
+
+#presBody li {
+  font-size: clamp(14px, 1.7vw, 18px);
+  color: #e1e6ee;
+  margin: 10px 0;
+}
+
+/* Tombol navigasi presentasi */
+
+
+.pres-controls {
+  position: fixed;
+  left: 0;
+  right: 0;
+  bottom: 20px;
+  z-index: 10020;
+
+  display: flex !important;
+  visibility: visible !important;
+  opacity: 1 !important;
+
+  justify-content: center;
+  align-items: center;
+  gap: 16px;
+
+  width: 100%;
+  min-height: 52px;
+  padding: 10px 16px;
+  box-sizing: border-box;
+}
+
+.pres-controls button {
+  display: inline-flex !important;
+  visibility: visible !important;
+  opacity: 1 !important;
+
+  align-items: center;
+  justify-content: center;
+
+  min-height: 42px;
+  padding: 10px 18px;
+
+  background: #d9b66f;
+  color: #10243a;
+  border: none;
+  border-radius: 8px;
+  font-size: 14px;
+  font-weight: 700;
+  cursor: pointer;
+}
+
+.pres-controls span {
+  color: #ffffff;
+  font-weight: 600;
+}
+
+/* =====================================
+   10. RESPONSIVE TABLET
+===================================== */
+
+@media (max-width: 850px) {
+  .topbar nav {
+    display: none;
+    position: absolute;
+    top: 76px;
+    left: 0;
+    right: 0;
+    background: #08162b;
+    padding: 18px 24px;
+    flex-direction: column;
+    gap: 15px;
+  }
+
+  .topbar nav.open {
+    display: flex;
+  }
+
+  .menu-toggle {
+    display: block;
+    margin-left: auto;
+    margin-right: 10px;
+  }
+
+  .tools {
+    gap: 6px;
+  }
+
+  .hero-grid {
+    grid-template-columns: 1fr;
+    gap: 0;
+  }
+
+  .hero-art {
+    height: 280px;
+  }
+
+  .hero {
+    padding-top: 55px;
+  }
+
+  .hero-bottom {
+    margin-top: 10px;
+  }
+
+  .reader-layout {
+    grid-template-columns: 1fr;
+  }
+
+  .toc {
+    position: relative;
+    top: auto;
+    max-height: none;
+  }
+
+  .toc #tocLinks {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 0 15px;
+  }
+
+  .identity-grid {
+    grid-template-columns: 1fr;
+    gap: 18px;
+  }
+
+  .members {
+    border-left: 0;
+    border-top: 1px solid var(--line);
+    padding: 18px 0;
+  }
+
+  .summary-grid {
+    grid-template-columns: 1fr 1fr;
+  }
+}
+
+/* =====================================
+   11. RESPONSIVE HP
+===================================== */
+
+@media (max-width: 560px) {
+  .topbar {
+    padding: 0 15px;
+    height: 66px;
+  }
+
+  .topbar nav {
+    top: 66px;
+  }
+
+  .brand {
+    font-size: 10px;
+  }
+
+  .brand-logo {
+    width: 34px;
+    height: 34px;
+  }
+
+  .tools .gold-btn {
+    font-size: 10px;
+    padding: 9px;
+  }
+
+  .hero {
+    padding: 45px 22px 20px;
+  }
+
+  .hero h1 {
+    font-size: 39px;
+  }
+
+  .hero-desc {
+    font-size: 13px;
+  }
+
+  .hero-art {
+    height: 260px;
+  }
+
+  .book-plate {
+    transform: scale(.82) rotate(5deg);
+  }
+
+  .hero-meta {
+    line-height: 2;
+  }
+
+  .hero-bottom {
+    font-size: 8px;
+    gap: 10px;
+  }
+
   .hero-institution {
     margin-bottom: 20px;
   }
@@ -65,5 +1020,778 @@
 
   .hero-institution span {
     font-size: 9px;
+  }
+
+  .section {
+    padding: 58px 20px;
+  }
+
+  .section-heading {
+    align-items: start;
+  }
+
+  .chapter-count {
+    font-size: 19px;
+  }
+
+  .summary-grid {
+    grid-template-columns: 1fr;
+  }
+
+  .reader-toolbar {
+    flex-wrap: wrap;
+  }
+
+  .searchbox {
+    flex-basis: 100%;
+    max-width: none;
+  }
+
+  .reader-layout {
+    gap: 12px;
+  }
+
+  .paper-content {
+    padding: 20px;
+    font-size: 14px;
+  }
+
+  .paper-content h2 {
+    font-size: 23px;
+  }
+
+  .toc #tocLinks {
+    grid-template-columns: 1fr;
+  }
+
+  .paper-title-card {
+    padding: 19px;
+  }
+
+  .paper-title-card h3 {
+    font-size: 17px;
+  }
+
+  .presentation {
+    padding: 75px 20px 115px;
+    align-items: flex-start;
+  }
+
+  .pres-inner {
+    padding-bottom: 100px;
+  }
+
+  .pres-controls {
+    left: 10px;
+    right: 10px;
+    bottom: 10px;
+    gap: 6px;
+    padding: 10px 8px;
+  }
+
+  .pres-controls button {
+    padding: 9px 8px;
+    font-size: 11px;
+  }
+
+  .pres-controls span {
+    font-size: 10px;
+  }
+
+  .close-pres {
+    top: 12px;
+    right: 12px;
+  }
+
+  footer {
+    gap: 12px;
+    flex-direction: column;
+  }
+}
+
+/* =====================================
+   ILUSTRASI ANIMASI MODE PRESENTASI
+===================================== */
+
+.pres-visual {
+  position: relative;
+  width: min(100%, 460px);
+  height: 190px;
+  margin: 0 auto 22px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  isolation: isolate;
+}
+
+.visual-main {
+  width: 112px;
+  height: 112px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 66px;
+  border-radius: 30px;
+  background: linear-gradient(145deg, #fff8e7, #e9d39b);
+  box-shadow: 0 14px 35px rgba(0, 0, 0, .16);
+  animation: visualFloat 3.5s ease-in-out infinite;
+  z-index: 2;
+}
+
+.visual-side {
+  position: absolute;
+  width: 64px;
+  height: 64px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 34px;
+  border-radius: 20px;
+  background: rgba(255, 255, 255, .95);
+  box-shadow: 0 8px 24px rgba(0, 0, 0, .12);
+  z-index: 3;
+}
+
+.visual-left {
+  left: calc(50% - 125px);
+  top: 35px;
+  animation: sideFloat 4s ease-in-out infinite;
+}
+
+.visual-right {
+  right: calc(50% - 125px);
+  bottom: 25px;
+  animation: sideFloat 4s ease-in-out infinite reverse;
+}
+
+.visual-orbit {
+  position: absolute;
+  width: 170px;
+  height: 110px;
+  border: 1px solid rgba(201, 160, 76, .5);
+  border-radius: 50%;
+  z-index: -1;
+}
+
+.orbit-one {
+  transform: rotate(25deg);
+  animation: orbitPulse 5s ease-in-out infinite;
+}
+
+.orbit-two {
+  width: 220px;
+  height: 145px;
+  transform: rotate(-25deg);
+  border-color: rgba(201, 160, 76, .25);
+  animation: orbitPulse 5s ease-in-out infinite reverse;
+}
+
+.visual-caption {
+  position: absolute;
+  bottom: 0;
+  left: 50%;
+  transform: translateX(-50%);
+  width: max-content;
+  max-width: 90%;
+  color: #c9a04c;
+  font-size: 12px;
+  font-weight: 700;
+  letter-spacing: 1.5px;
+  text-align: center;
+  text-transform: uppercase;
+}
+
+@keyframes visualFloat {
+  0%, 100% {
+    transform: translateY(0) rotate(-2deg);
+  }
+  50% {
+    transform: translateY(-12px) rotate(2deg);
+  }
+}
+
+@keyframes sideFloat {
+  0%, 100% {
+    transform: translateY(0);
+  }
+  50% {
+    transform: translateY(-9px);
+  }
+}
+
+@keyframes orbitPulse {
+  0%, 100% {
+    opacity: .45;
+    scale: .96;
+  }
+  50% {
+    opacity: 1;
+    scale: 1.04;
+  }
+}
+
+/* Tampilan HP */
+@media (max-width: 600px) {
+  .pres-visual {
+    height: 155px;
+    margin-bottom: 18px;
+  }
+
+  .visual-main {
+    width: 88px;
+    height: 88px;
+    font-size: 52px;
+    border-radius: 24px;
+  }
+
+  .visual-side {
+    width: 52px;
+    height: 52px;
+    font-size: 27px;
+  }
+
+  .visual-left {
+    left: calc(50% - 100px);
+    top: 25px;
+  }
+
+  .visual-right {
+    right: calc(50% - 100px);
+    bottom: 22px;
+  }
+
+  .visual-caption {
+    font-size: 10px;
+    letter-spacing: 1px;
+  }
+}
+
+/* Menghormati pengaturan pengurangan animasi perangkat */
+@media (prefers-reduced-motion: reduce) {
+  .visual-main,
+  .visual-side,
+  .visual-orbit {
+    animation: none !important;
+  }
+}
+
+/* =========================================
+   PRESENTASI - UKURAN LEBIH BESAR
+========================================= */
+
+/* LAPTOP */
+#presentation .pres-inner {
+  width: min(1250px, 96vw);
+  padding: 45px 45px 95px;
+}
+
+#presentation .pres-layout {
+  grid-template-columns: minmax(0, 1.2fr) minmax(280px, .8fr);
+  gap: 35px;
+}
+
+#presentation .pres-content h2 {
+  font-size: clamp(34px, 3.5vw, 48px);
+  line-height: 1.18;
+  margin: 16px 0 20px;
+}
+
+#presentation .pres-content p {
+  font-size: clamp(19px, 1.65vw, 24px);
+  line-height: 1.5;
+  margin: 13px 0;
+}
+
+#presentation .pres-content li {
+  font-size: clamp(17px, 1.5vw, 21px);
+  line-height: 1.5;
+  margin-bottom: 10px;
+}
+
+#presentation .pres-content ul {
+  margin-top: 16px;
+  padding-left: 28px;
+}
+
+/* ILUSTRASI LAPTOP */
+#presentation .pres-art .pres-visual {
+  max-width: 430px;
+  height: 290px;
+  transform: scale(1.1);
+}
+
+#presentation .pres-art .visual-main {
+  width: 140px;
+  height: 140px;
+  font-size: 82px;
+}
+
+#presentation .pres-art .visual-side {
+  width: 76px;
+  height: 76px;
+  font-size: 42px;
+}
+
+/* LAYAR LAPTOP PENDEK */
+@media (min-width: 701px) and (max-height: 750px) {
+  #presentation .pres-content h2 {
+    font-size: 34px;
+  }
+
+  #presentation .pres-content p {
+    font-size: 18px;
+  }
+
+  #presentation .pres-content li {
+    font-size: 16px;
+    margin-bottom: 6px;
+  }
+
+  #presentation .pres-art .pres-visual {
+    transform: scale(.95);
+  }
+}
+
+/* HP */
+@media (max-width: 700px) {
+  #presentation .pres-inner {
+    padding: 65px 22px 90px;
+  }
+
+  #presentation .pres-content h2 {
+    font-size: clamp(25px, 6vw, 31px);
+    line-height: 1.2;
+  }
+
+  #presentation .pres-content p {
+    font-size: 17px;
+    line-height: 1.5;
+  }
+
+  #presentation .pres-content li {
+    font-size: 16px;
+    line-height: 1.45;
+    margin-bottom: 8px;
+  }
+
+  #presentation .pres-art {
+    width: 190px;
+    max-width: 55%;
+  }
+
+  #presentation .pres-art .pres-visual {
+    height: 180px;
+    transform: scale(.9);
+  }
+
+  #presentation .pres-controls {
+    bottom: 10px;
+  }
+}
+
+/* HP LAYAR PENDEK */
+@media (max-width: 700px) and (max-height: 700px) {
+  #presentation .pres-content h2 {
+    font-size: 23px;
+  }
+
+  #presentation .pres-content p {
+    font-size: 15px;
+  }
+
+  #presentation .pres-content li {
+    font-size: 14px;
+  }
+}
+
+
+/* =========================================
+   PERBAIKAN POSISI DAN UKURAN ILUSTRASI
+========================================= */
+
+/* Tata letak utama presentasi laptop */
+#presentation .pres-layout {
+  display: grid;
+  grid-template-columns: minmax(0, 1.15fr) minmax(340px, .85fr);
+  align-items: center;
+  gap: 45px;
+  width: 100%;
+}
+
+/* Area teks */
+#presentation .pres-content {
+  min-width: 0;
+}
+
+/* Area animasi */
+#presentation .pres-art {
+  width: 100%;
+  min-width: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+/* Ukuran keseluruhan ilustrasi */
+#presentation .pres-art .pres-visual {
+  width: 100%;
+  max-width: 560px;
+  height: 350px;
+  margin: 0 auto;
+  transform: none;
+}
+
+/* Ikon utama */
+#presentation .pres-art .visual-main {
+  width: 165px;
+  height: 165px;
+  font-size: 96px;
+  border-radius: 36px;
+}
+
+/* Ikon pendamping */
+#presentation .pres-art .visual-side {
+  width: 90px;
+  height: 90px;
+  font-size: 50px;
+  border-radius: 25px;
+}
+
+/* Posisi ikon pendamping */
+#presentation .pres-art .visual-left {
+  left: calc(50% - 180px);
+  top: 65px;
+}
+
+#presentation .pres-art .visual-right {
+  right: calc(50% - 180px);
+  bottom: 55px;
+}
+
+/* Lingkaran animasi */
+#presentation .pres-art .orbit-one {
+  width: 230px;
+  height: 150px;
+}
+
+#presentation .pres-art .orbit-two {
+  width: 290px;
+  height: 190px;
+}
+
+/* Keterangan ilustrasi */
+#presentation .pres-art .visual-caption {
+  bottom: 5px;
+  font-size: 13px;
+}
+
+/* Laptop dengan layar pendek */
+@media (min-width: 701px) and (max-height: 750px) {
+  #presentation .pres-art .pres-visual {
+    height: 290px;
+    transform: scale(.9);
+  }
+
+  #presentation .pres-art .visual-main {
+    width: 140px;
+    height: 140px;
+    font-size: 82px;
+  }
+
+  #presentation .pres-art .visual-side {
+    width: 76px;
+    height: 76px;
+    font-size: 42px;
+  }
+}
+
+/* Tampilan HP dan tablet kecil */
+@media (max-width: 700px) {
+  #presentation .pres-layout {
+    grid-template-columns: 1fr;
+    gap: 15px;
+  }
+
+  #presentation .pres-art {
+    width: 100%;
+    max-width: 100%;
+    margin: 5px auto 0;
+  }
+
+  #presentation .pres-art .pres-visual {
+    width: 100%;
+    max-width: 390px;
+    height: 235px;
+    margin: 0 auto;
+    transform: none;
+  }
+
+  #presentation .pres-art .visual-main {
+    width: 115px;
+    height: 115px;
+    font-size: 68px;
+  }
+
+  #presentation .pres-art .visual-side {
+    width: 65px;
+    height: 65px;
+    font-size: 37px;
+  }
+
+  #presentation .pres-art .visual-left {
+    left: calc(50% - 135px);
+    top: 35px;
+  }
+
+  #presentation .pres-art .visual-right {
+    right: calc(50% - 135px);
+    bottom: 35px;
+  }
+
+  #presentation .pres-art .orbit-one {
+    width: 175px;
+    height: 115px;
+  }
+
+  #presentation .pres-art .orbit-two {
+    width: 220px;
+    height: 145px;
+  }
+
+  #presentation .pres-art .visual-caption {
+    font-size: 10px;
+  }
+}
+
+/* HP dengan layar pendek */
+@media (max-width: 700px) and (max-height: 700px) {
+  #presentation .pres-art .pres-visual {
+    height: 190px;
+  }
+
+  #presentation .pres-art .visual-main {
+    width: 95px;
+    height: 95px;
+    font-size: 56px;
+  }
+
+  #presentation .pres-art .visual-side {
+    width: 55px;
+    height: 55px;
+    font-size: 31px;
+  }
+}
+
+
+/* =====================================================
+   12. PENYEMPURNAAN AKHIR: RESPONSIF, AKSESIBILITAS,
+       DAN KONSISTENSI MODE PRESENTASI
+   ===================================================== */
+
+/* Media dan elemen tidak boleh melebar keluar dari layar. */
+img,
+video,
+iframe {
+  max-width: 100%;
+}
+
+button,
+input,
+textarea,
+select {
+  font: inherit;
+}
+
+button {
+  -webkit-tap-highlight-color: transparent;
+}
+
+/* Fokus keyboard terlihat jelas saat pengguna menekan Tab. */
+:where(a, button, input, textarea, select, [tabindex]):focus-visible {
+  outline: 3px solid var(--gold);
+  outline-offset: 3px;
+  border-radius: 4px;
+}
+
+/* Transisi konsisten tanpa mengganggu navigasi. */
+button,
+a,
+.summary-card,
+.soft-btn,
+.gold-btn,
+.outline-btn,
+.icon-btn,
+.menu-toggle {
+  transition:
+    color .2s ease,
+    background-color .2s ease,
+    border-color .2s ease,
+    box-shadow .2s ease,
+    transform .2s ease;
+}
+
+/* Tata letak laptop ukuran sedang: beri ruang cukup untuk teks dan ilustrasi. */
+@media (min-width: 701px) and (max-width: 1050px) {
+  #presentation {
+    padding-left: 4vw;
+    padding-right: 4vw;
+  }
+
+  #presentation .pres-inner {
+    width: min(100%, 1000px);
+    padding-left: 18px;
+    padding-right: 18px;
+  }
+
+  #presentation .pres-layout {
+    grid-template-columns: minmax(0, 1fr) minmax(260px, .78fr);
+    gap: 24px;
+  }
+
+  #presentation .pres-art .pres-visual {
+    transform: scale(.88);
+  }
+
+  #presentation .pres-content h2 {
+    font-size: clamp(30px, 3.3vw, 42px);
+  }
+
+  #presentation .pres-content p {
+    font-size: clamp(17px, 1.6vw, 20px);
+  }
+
+  #presentation .pres-content li {
+    font-size: clamp(15px, 1.45vw, 18px);
+  }
+}
+
+/* Perbaikan kontrol presentasi di layar kecil agar tidak melewati tepi. */
+@media (max-width: 700px) {
+  #presentation .pres-controls {
+    left: 8px;
+    right: 8px;
+    width: auto;
+    gap: 6px;
+    padding: 8px;
+    bottom: max(8px, env(safe-area-inset-bottom));
+  }
+
+  #presentation .pres-controls button {
+    min-width: 0;
+    padding: 9px 10px;
+    font-size: 12px;
+    white-space: nowrap;
+  }
+
+  #presentation .pres-controls span {
+    white-space: nowrap;
+  }
+
+  #presentation .pres-inner {
+    width: 100%;
+    min-width: 0;
+  }
+
+  #presentation .pres-content,
+  #presentation .pres-art {
+    min-width: 0;
+  }
+
+  #presentation .pres-art .pres-visual {
+    max-width: min(100%, 360px);
+  }
+
+  .reader-toolbar > * {
+    min-width: 0;
+  }
+}
+
+/* Ponsel sangat kecil: kontrol tetap terbaca dan tidak bertumpuk. */
+@media (max-width: 380px) {
+  .brand small {
+    letter-spacing: .08em;
+  }
+
+  .tools {
+    gap: 4px;
+  }
+
+  .tools .gold-btn {
+    padding: 8px 7px;
+  }
+
+  #presentation .pres-controls {
+    gap: 4px;
+    padding: 6px 4px;
+  }
+
+  #presentation .pres-controls button {
+    padding: 8px 7px;
+    font-size: 10px;
+  }
+
+  #presentation .pres-controls span {
+    font-size: 9px;
+  }
+
+  #presentation .pres-inner {
+    padding-left: 12px;
+    padding-right: 12px;
+  }
+}
+
+/* Hormati preferensi perangkat untuk mengurangi gerakan. */
+@media (prefers-reduced-motion: reduce) {
+  *,
+  *::before,
+  *::after {
+    scroll-behavior: auto !important;
+    animation-duration: .01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: .01ms !important;
+  }
+}
+
+/* Cetak: sembunyikan navigasi dan tampilkan isi utama dengan bersih. */
+@media print {
+  .topbar,
+  .tools,
+  .reader-toolbar,
+  .toc,
+  .hero-actions,
+  .pres-controls,
+  .close-pres {
+    display: none !important;
+  }
+
+  body,
+  .hero,
+  .closing {
+    background: #fff !important;
+    color: #111 !important;
+  }
+
+  .hero,
+  .section,
+  .closing {
+    padding: 20px !important;
+  }
+
+  .hero-desc,
+  .section p,
+  .closing p {
+    color: #333 !important;
+  }
+
+  .paper-content,
+  .summary-card,
+  .paper-title-card {
+    box-shadow: none !important;
+    break-inside: avoid;
+  }
+
+  a {
+    color: #111 !important;
+    text-decoration: underline;
   }
 }
