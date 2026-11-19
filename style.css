@@ -1795,3 +1795,57 @@ a,
     text-decoration: underline;
   }
 }
+
+
+/* Navigasi presentasi di bagian atas slide */
+.presentation .pres-controls {
+  position: relative !important;
+  top: auto !important;
+  bottom: auto !important;
+  left: auto !important;
+  right: auto !important;
+  width: 100% !important;
+  display: grid !important;
+  grid-template-columns: 1fr auto 1fr;
+  align-items: center;
+  gap: 8px;
+  margin: 0 0 22px;
+  padding: 10px 0;
+  z-index: 20;
+  box-sizing: border-box;
+}
+
+.presentation #prevSlide {
+  justify-self: start;
+}
+
+.presentation #nextSlide {
+  justify-self: end;
+}
+
+.presentation #slideNumber {
+  justify-self: center;
+  text-align: center;
+}
+
+.presentation .pres-controls button {
+  white-space: nowrap;
+}
+
+/* Penyesuaian untuk layar HP */
+@media (max-width: 600px) {
+  .presentation .pres-controls {
+    gap: 4px;
+    margin-bottom: 16px;
+    padding: 8px 0;
+  }
+
+  .presentation .pres-controls button {
+    font-size: 12px;
+    padding: 9px 10px;
+  }
+
+  .presentation #slideNumber {
+    font-size: 12px;
+  }
+}
